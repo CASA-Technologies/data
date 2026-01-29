@@ -2,6 +2,7 @@
   "invoices" : [ {
     "invoiceId" : 1,
     "invoiceDate" : "2026-01-02",
+    "notes" : null,
     "totalQty" : 5.20,
     "totalAmount" : 365.57,
     "totalCostOfSales" : 0.04,
@@ -20,8 +21,7 @@
       "model" : "CR-V",
       "description" : "2003 Honda CR-V MILEAGE: 194,275",
       "vin" : "JHLRD78813C042830",
-      "mileage" : 194275,
-      "notes" : null
+      "mileage" : 194275
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -102,6 +102,7 @@
   }, {
     "invoiceId" : 2,
     "invoiceDate" : "2026-01-09",
+    "notes" : "DOT# 173RP15MY 1525 1525\n",
     "totalQty" : 8.50,
     "totalAmount" : 800.68,
     "totalCostOfSales" : 547.10,
@@ -120,8 +121,7 @@
       "model" : "Sierra 1500",
       "description" : "2023 GMC Sierra 1500 MILEAGE 34,374",
       "vin" : "1GTUUHEL3PZ261314",
-      "mileage" : 34374,
-      "notes" : "nullDOT# 173RP15MY 1525 1525\n"
+      "mileage" : 34374
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -217,6 +217,7 @@
   }, {
     "invoiceId" : 3,
     "invoiceDate" : "2025-12-16",
+    "notes" : "CARRY IN CARRY OUT\n",
     "totalQty" : 4.00,
     "totalAmount" : 62.94,
     "totalCostOfSales" : 5.04,
@@ -229,15 +230,7 @@
       "billToContact" : "",
       "phone" : "3165165076"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -302,6 +295,7 @@
   }, {
     "invoiceId" : 4,
     "invoiceDate" : "2026-01-08",
+    "notes" : null,
     "totalQty" : 2.00,
     "totalAmount" : 169.98,
     "totalCostOfSales" : 150.00,
@@ -315,13 +309,12 @@
       "phone" : "3166139196"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2015,
+      "make" : "MAZDA",
+      "model" : "3",
       "description" : "2015 MAZDA 3 MILES: 117,308",
       "vin" : "3MZBM1L70FM217353",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 117308
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -387,6 +380,7 @@
   }, {
     "invoiceId" : 5,
     "invoiceDate" : "2025-12-11",
+    "notes" : null,
     "totalQty" : 1.00,
     "totalAmount" : 15.80,
     "totalCostOfSales" : null,
@@ -400,13 +394,12 @@
       "phone" : "3163084087"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2010,
+      "make" : "NISSAN",
+      "model" : "MAXIMA",
       "description" : "2010 NISSAN MAXIMA MILES: 200,477",
       "vin" : "1N4AA5AP2AC856660",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 200477
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -457,6 +450,7 @@
   }, {
     "invoiceId" : 6,
     "invoiceDate" : "2025-12-17",
+    "notes" : "2018 MASERATI QUATTROPORTE MILES: 88,233\n",
     "totalQty" : 3.00,
     "totalAmount" : 57.78,
     "totalCostOfSales" : null,
@@ -469,15 +463,7 @@
       "billToContact" : "",
       "phone" : "3167069827"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : "ZAM56YRL5J1260031",
-      "mileage" : 0,
-      "notes" : "null2018 MASERATI QUATTROPORTE MILES: 88,233\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "MISCELLANEOUS",
@@ -527,6 +513,7 @@
   }, {
     "invoiceId" : 7,
     "invoiceDate" : "2025-12-23",
+    "notes" : null,
     "totalQty" : 28.90,
     "totalAmount" : 2456.06,
     "totalCostOfSales" : 0.04,
@@ -540,13 +527,12 @@
       "phone" : "3162394106"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2018,
+      "make" : "GMC",
+      "model" : "SIERRA 1500",
       "description" : "2018 GMC SIERRA 1500 MILES:",
       "vin" : "3GTP1NEC4JG180950",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -687,6 +673,7 @@
   }, {
     "invoiceId" : 8,
     "invoiceDate" : "2025-12-22",
+    "notes" : "CUSTOMER HAS BEEN MADE AWARE THERE IS NO MORE ADJUSTMENT ROOM TO FRONT SUSPENSION DUE TO VEHICLE BEING LOWERED AND STRUTS. CAMBER BOLTS IS AN OPTION TO HELP\n",
     "totalQty" : 2.00,
     "totalAmount" : 175.98,
     "totalCostOfSales" : null,
@@ -705,8 +692,7 @@
       "model" : "Silverado 1500",
       "description" : "2008 Chevrolet Silverado 1500 MILEAGE 161,843",
       "vin" : "1GCEK14J08Z245915",
-      "mileage" : 161843,
-      "notes" : "nullCUSTOMER HAS BEEN MADE AWARE THERE IS NO MORE ADJUSTMENT ROOM TO FRONT SUSPENSION DUE TO VEHICLE BEING LOWERED AND STRUTS. CAMBER BOLTS IS AN OPTION TO HELP\n"
+      "mileage" : 161843
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -742,6 +728,7 @@
   }, {
     "invoiceId" : 9,
     "invoiceDate" : "2025-12-08",
+    "notes" : "CUSTOMER CONTACTED STORE AND STATED TIRE WAS IN BAD CONDITION. SHE WAS GIVEN THE OPTION TO BRING BACK FOR INSPECTION BUT CUSTOMER DECLINED\n",
     "totalQty" : 5.00,
     "totalAmount" : 203.32,
     "totalCostOfSales" : 275.04,
@@ -755,13 +742,12 @@
       "phone" : "3165532842"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2014,
+      "make" : "DODGE",
+      "model" : "AVENGER",
       "description" : "2014 DODGE AVENGER MILES: 106,414",
       "vin" : "1C3CDZAG0EN108991",
-      "mileage" : 0,
-      "notes" : "nullCUSTOMER CONTACTED STORE AND STATED TIRE WAS IN BAD CONDITION. SHE WAS GIVEN THE OPTION TO BRING BACK FOR INSPECTION BUT CUSTOMER DECLINED\n"
+      "mileage" : 106414
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -842,6 +828,7 @@
   }, {
     "invoiceId" : 10,
     "invoiceDate" : "2025-12-19",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 329.96,
     "totalCostOfSales" : null,
@@ -860,8 +847,7 @@
       "model" : "Edge",
       "description" : "2020 Ford Edge MILEAGE 052,169",
       "vin" : "2FMPK4AP8LBB68012",
-      "mileage" : 52169,
-      "notes" : null
+      "mileage" : 52169
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -912,6 +898,7 @@
   }, {
     "invoiceId" : 11,
     "invoiceDate" : "2025-12-05",
+    "notes" : "DOT# 05CF5238P 2725\n",
     "totalQty" : 7.00,
     "totalAmount" : 223.63,
     "totalCostOfSales" : 117.45,
@@ -925,13 +912,12 @@
       "phone" : "3168951255"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2004,
+      "make" : "LEXUS",
+      "model" : "RX330",
       "description" : "2004 LEXUS RX330 MILES:215,770",
       "vin" : "JTJHA31U0400522969",
-      "mileage" : 0,
-      "notes" : "nullDOT# 05CF5238P 2725\n"
+      "mileage" : 215770
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -1042,6 +1028,7 @@
   }, {
     "invoiceId" : 12,
     "invoiceDate" : "2025-12-24",
+    "notes" : null,
     "totalQty" : 1.00,
     "totalAmount" : 110.00,
     "totalCostOfSales" : null,
@@ -1055,13 +1042,12 @@
       "phone" : "3168822610"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2014,
+      "make" : "FORD",
+      "model" : "F-150",
       "description" : "2014 FORD F-150 MILES: 123,448",
       "vin" : "1FTFW1ET5EFA51466",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 123448
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -1082,6 +1068,7 @@
   }, {
     "invoiceId" : 13,
     "invoiceDate" : "2026-01-02",
+    "notes" : null,
     "totalQty" : 1.00,
     "totalAmount" : 110.00,
     "totalCostOfSales" : null,
@@ -1095,13 +1082,12 @@
       "phone" : "3169454060"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 1991,
+      "make" : "GMC",
+      "model" : "C1500 PICKUP RWD",
       "description" : "1991 GMC C1500 PICKUP RWD MILES:",
       "vin" : "1GTDC14K4MZ507883",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -1152,6 +1138,7 @@
   }, {
     "invoiceId" : 14,
     "invoiceDate" : "2025-12-06",
+    "notes" : null,
     "totalQty" : 3.00,
     "totalAmount" : 191.95,
     "totalCostOfSales" : 0.04,
@@ -1164,15 +1151,7 @@
       "billToContact" : "",
       "phone" : "3164098215"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "2015 CHEVY SILVERADO MILES 183,945",
-      "vin" : "3GCUKREC7FG233722",
-      "mileage" : 0,
-      "notes" : null
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "align",
@@ -1222,6 +1201,7 @@
   }, {
     "invoiceId" : 15,
     "invoiceDate" : "2026-01-13",
+    "notes" : "DOT: 0B37TB3U1823,3423,0825,1924\nTRAILER\n",
     "totalQty" : 18.00,
     "totalAmount" : 440.71,
     "totalCostOfSales" : 223.60,
@@ -1234,15 +1214,7 @@
       "billToContact" : "",
       "phone" : "3162147948"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullDOT: 0B37TB3U1823,3423,0825,1924\nTRAILER\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "FREESTAR 205/75/15",
@@ -1337,6 +1309,7 @@
   }, {
     "invoiceId" : 16,
     "invoiceDate" : "2025-12-09",
+    "notes" : null,
     "totalQty" : 3.00,
     "totalAmount" : 37.14,
     "totalCostOfSales" : 0.04,
@@ -1355,8 +1328,7 @@
       "model" : "Fusion",
       "description" : "2016 Ford Fusion MILEAGE 174,895",
       "vin" : "3FA6P0HD4GR122325",
-      "mileage" : 174895,
-      "notes" : null
+      "mileage" : 174895
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -1407,6 +1379,7 @@
   }, {
     "invoiceId" : 17,
     "invoiceDate" : "2026-01-12",
+    "notes" : null,
     "totalQty" : 6.00,
     "totalAmount" : 109.40,
     "totalCostOfSales" : 1.98,
@@ -1425,8 +1398,7 @@
       "model" : "F-150",
       "description" : "2013 Ford F-150 MILEAGE 156,267",
       "vin" : "1FTFW1EF4DFA22775",
-      "mileage" : 156267,
-      "notes" : null
+      "mileage" : 156267
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -1477,6 +1449,7 @@
   }, {
     "invoiceId" : 18,
     "invoiceDate" : "2025-12-12",
+    "notes" : "DOT#TM6AZMF1R 1724 1724 1724 1724\nINSTALLED ON 12/13/2025\n",
     "totalQty" : 22.00,
     "totalAmount" : 1072.94,
     "totalCostOfSales" : 579.96,
@@ -1495,8 +1468,7 @@
       "model" : "TRAIL BTAZER",
       "description" : "2024 CHEVY TRAIL BTAZER MILEAGE 55112",
       "vin" : "KL79MTSL7RB066743",
-      "mileage" : 55112,
-      "notes" : "nullDOT#TM6AZMF1R 1724 1724 1724 1724\nINSTALLED ON 12/13/2025\n"
+      "mileage" : 55112
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -1607,6 +1579,7 @@
   }, {
     "invoiceId" : 19,
     "invoiceDate" : "2025-12-22",
+    "notes" : "CARRY IN CARRY OUT\n",
     "totalQty" : 3.00,
     "totalAmount" : 57.78,
     "totalCostOfSales" : 0.04,
@@ -1619,15 +1592,7 @@
       "billToContact" : "",
       "phone" : "3166448636"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -1677,6 +1642,7 @@
   }, {
     "invoiceId" : 20,
     "invoiceDate" : "2026-01-07",
+    "notes" : "CARRY IN CARRY OUT\nDOT# 1BFXCKP11 4525 4525 4125 4525\nDOT: 05YH2NT1Y 1625\n",
     "totalQty" : 32.00,
     "totalAmount" : 1951.64,
     "totalCostOfSales" : 1208.76,
@@ -1689,15 +1655,7 @@
       "billToContact" : "",
       "phone" : "3166700574"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\nDOT# 1BFXCKP11 4525 4525 4125 4525\nDOT: 05YH2NT1Y 1625\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "BFG 275/70/17",
@@ -1852,6 +1810,7 @@
   }, {
     "invoiceId" : 21,
     "invoiceDate" : "2025-12-05",
+    "notes" : "ALL SALES FINAL NO RETURNS OR EXCHANGES\n",
     "totalQty" : 22.00,
     "totalAmount" : 103.01,
     "totalCostOfSales" : 0.08,
@@ -1864,15 +1823,7 @@
       "billToContact" : "",
       "phone" : null
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullALL SALES FINAL NO RETURNS OR EXCHANGES\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -1907,6 +1858,7 @@
   }, {
     "invoiceId" : 22,
     "invoiceDate" : "2025-12-08",
+    "notes" : "CUSTOMER HAS BEEN INFORMED VEHICLE NEEDS PARTS AND ALIGNMENT.\nDOT: 00BKERB1A2924,2924,2924,0125\nFAILURE TO DO SO WILL CAUSE TIRES TO WEAR PREMATURELY AND UNEVENLY. AND WILL VOID ANY WARRANTY ON NEW TIRES.\nSOLD TO SNAP AND LEASED TO CUSTOMER\n",
     "totalQty" : 21.00,
     "totalAmount" : 822.95,
     "totalCostOfSales" : 533.06,
@@ -1920,13 +1872,12 @@
       "phone" : "3166403704"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2008,
+      "make" : "GMC",
+      "model" : "ACADIA",
       "description" : "2008 GMC ACADIA MILES: 247,041",
       "vin" : "1GKER23708J164441",
-      "mileage" : 0,
-      "notes" : "nullCUSTOMER HAS BEEN INFORMED VEHICLE NEEDS PARTS AND ALIGNMENT.\nDOT: 00BKERB1A2924,2924,2924,0125\nFAILURE TO DO SO WILL CAUSE TIRES TO WEAR PREMATURELY AND UNEVENLY. AND WILL VOID ANY WARRANTY ON NEW TIRES.\nSOLD TO SNAP AND LEASED TO CUSTOMER\n"
+      "mileage" : 247041
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2022,6 +1973,7 @@
   }, {
     "invoiceId" : 23,
     "invoiceDate" : "2025-12-08",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 62.80,
     "totalCostOfSales" : 5.04,
@@ -2040,8 +1992,7 @@
       "model" : "Cruze",
       "description" : "2014 Chevrolet Cruze MILEAGE 143,812",
       "vin" : "1G1PC5SB5E7377299",
-      "mileage" : 143812,
-      "notes" : null
+      "mileage" : 143812
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2107,6 +2058,7 @@
   }, {
     "invoiceId" : 24,
     "invoiceDate" : "2025-12-26",
+    "notes" : "CUSTOMER STATED VEHICLE PULLTO THE LEFT . ALIGMENT WAS CHECK ON 1/05/2026 AND IT WAS IN GOOD CONDITION PULLING DO TO THE MOTOR MOUNTS\n",
     "totalQty" : 2.00,
     "totalAmount" : 125.98,
     "totalCostOfSales" : null,
@@ -2120,13 +2072,12 @@
       "phone" : "2107606693"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2005,
+      "make" : "CHEVY",
+      "model" : "CLASSIC",
       "description" : "2005 CHEVY CLASSIC MILES: 137,926",
       "vin" : "1G1ND52F75M164976",
-      "mileage" : 0,
-      "notes" : "nullCUSTOMER STATED VEHICLE PULLTO THE LEFT . ALIGMENT WAS CHECK ON 1/05/2026 AND IT WAS IN GOOD CONDITION PULLING DO TO THE MOTOR MOUNTS\n"
+      "mileage" : 137926
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2162,6 +2113,7 @@
   }, {
     "invoiceId" : 25,
     "invoiceDate" : "2025-12-10",
+    "notes" : "CARRY OUT\n",
     "totalQty" : 3.00,
     "totalAmount" : 94.94,
     "totalCostOfSales" : 0.04,
@@ -2174,15 +2126,7 @@
       "billToContact" : "",
       "phone" : "2542347300"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -2217,6 +2161,7 @@
   }, {
     "invoiceId" : 26,
     "invoiceDate" : "2026-01-10",
+    "notes" : null,
     "totalQty" : 9.00,
     "totalAmount" : 315.81,
     "totalCostOfSales" : 0.04,
@@ -2235,8 +2180,7 @@
       "model" : "Acadia Limited",
       "description" : "2017 GMC Acadia Limited MILEAGE N/A",
       "vin" : "1GKKRSKD4HJ297374",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2302,6 +2246,7 @@
   }, {
     "invoiceId" : 27,
     "invoiceDate" : "2025-12-09",
+    "notes" : "CARRY IN CARRY OUT\n",
     "totalQty" : 4.00,
     "totalAmount" : 23.71,
     "totalCostOfSales" : 0.04,
@@ -2314,15 +2259,7 @@
       "billToContact" : "",
       "phone" : "3164356335"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -2387,6 +2324,7 @@
   }, {
     "invoiceId" : 28,
     "invoiceDate" : "2025-12-01",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 94.93,
     "totalCostOfSales" : 0.04,
@@ -2400,13 +2338,12 @@
       "phone" : "3162101479"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2018,
+      "make" : "NISSAN",
+      "model" : "ALTIMA",
       "description" : "2018 NISSAN ALTIMA MILES: 125,052",
       "vin" : "1N4AL3APXJC143326",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 125052
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2472,6 +2409,7 @@
   }, {
     "invoiceId" : 29,
     "invoiceDate" : "2026-01-13",
+    "notes" : "ALIGNMENT DECLINED\nDOT: 00BHARB1A2325,2325,2325,2625\n",
     "totalQty" : 22.00,
     "totalAmount" : 642.43,
     "totalCostOfSales" : 340.78,
@@ -2485,13 +2423,12 @@
       "phone" : "3165502249"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2017,
+      "make" : "CHEVY",
+      "model" : "EQUINOX",
       "description" : "2017 CHEVY EQUINOX MILES: 99,256",
       "vin" : "2GNALCEK8H1616897",
-      "mileage" : 0,
-      "notes" : "nullALIGNMENT DECLINED\nDOT: 00BHARB1A2325,2325,2325,2625\n"
+      "mileage" : 99256
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2602,6 +2539,7 @@
   }, {
     "invoiceId" : 30,
     "invoiceDate" : "2026-01-06",
+    "notes" : "IMS: $120.37\n",
     "totalQty" : 12.50,
     "totalAmount" : 448.88,
     "totalCostOfSales" : 0.04,
@@ -2620,8 +2558,7 @@
       "model" : "Concorde",
       "description" : "2000 Chrysler Concorde MILEAGE 225,450",
       "vin" : "2C3HD36J1YH407488",
-      "mileage" : 226391,
-      "notes" : "null2000 Chrysler Concorde MILEAGE: 226,391\nIMS: $120.37\n"
+      "mileage" : 226391
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2732,6 +2669,7 @@
   }, {
     "invoiceId" : 31,
     "invoiceDate" : "2025-12-22",
+    "notes" : null,
     "totalQty" : 10.31,
     "totalAmount" : 429.25,
     "totalCostOfSales" : null,
@@ -2745,13 +2683,12 @@
       "phone" : "3168311110"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2011,
+      "make" : "FORD",
+      "model" : "F-350",
       "description" : "2011 FORD F-350 MILES:",
       "vin" : "1FT8W3A67BEC97084",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -2787,6 +2724,7 @@
   }, {
     "invoiceId" : 32,
     "invoiceDate" : "2025-12-03",
+    "notes" : "DOT#1YCCAHPCR2025,2025\nROAD HAZARD DECLINED\n",
     "totalQty" : 9.00,
     "totalAmount" : 362.49,
     "totalCostOfSales" : 260.00,
@@ -2799,15 +2737,7 @@
       "billToContact" : "",
       "phone" : "3166190120"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "2020 TOYOTA TUNDRA SR5 MILES 117,170",
-      "vin" : "5TFDY5F1XLX918132",
-      "mileage" : 0,
-      "notes" : "nullDOT#1YCCAHPCR2025,2025\nROAD HAZARD DECLINED\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "IRONMAN 275/65/18",
@@ -2887,6 +2817,7 @@
   }, {
     "invoiceId" : 33,
     "invoiceDate" : "2025-12-30",
+    "notes" : "CARRY IN CARRY OUT\nCURRY OUT\n",
     "totalQty" : 9.00,
     "totalAmount" : 178.81,
     "totalCostOfSales" : 15.04,
@@ -2899,15 +2830,7 @@
       "billToContact" : "",
       "phone" : "3162220916"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "2020 SUBARU IMPREZA",
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\nCURRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -2972,6 +2895,7 @@
   }, {
     "invoiceId" : 34,
     "invoiceDate" : "2025-12-08",
+    "notes" : "ALL SALES FINAL NO RETURNS OR EXCHANGES\n",
     "totalQty" : 6.00,
     "totalAmount" : 28.16,
     "totalCostOfSales" : 0.04,
@@ -2984,15 +2908,7 @@
       "billToContact" : "",
       "phone" : null
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullALL SALES FINAL NO RETURNS OR EXCHANGES\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -3027,6 +2943,7 @@
   }, {
     "invoiceId" : 35,
     "invoiceDate" : "2025-12-26",
+    "notes" : "DOT: 00BRHRA2A2924,2924,2924,4024\n",
     "totalQty" : 18.00,
     "totalAmount" : 648.91,
     "totalCostOfSales" : 323.56,
@@ -3040,13 +2957,12 @@
       "phone" : "3166198827"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2019,
+      "make" : "HONDA",
+      "model" : "ACCORD",
       "description" : "2019 HONDA ACCORD MILES: 105,289",
       "vin" : "1HGCV2F54KA032350",
-      "mileage" : 0,
-      "notes" : "nullDOT: 00BRHRA2A2924,2924,2924,4024\n"
+      "mileage" : 105289
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3142,6 +3058,7 @@
   }, {
     "invoiceId" : 36,
     "invoiceDate" : "2025-12-30",
+    "notes" : "DOT: 076CDJY7P0425,0425,0425,0425\n",
     "totalQty" : 23.00,
     "totalAmount" : 938.25,
     "totalCostOfSales" : 444.36,
@@ -3155,13 +3072,12 @@
       "phone" : "3163127104"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2016,
+      "make" : "CHEVROLET",
+      "model" : "EQUINOX",
       "description" : "2016 CHEVROLET EQUINOX MILES: 140,505",
       "vin" : "2GNFLEEK4G6357246",
-      "mileage" : 0,
-      "notes" : "nullDOT: 076CDJY7P0425,0425,0425,0425\n"
+      "mileage" : 140505
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3287,6 +3203,7 @@
   }, {
     "invoiceId" : 37,
     "invoiceDate" : "2025-12-04",
+    "notes" : "DOT 00BJRB1A3225\n",
     "totalQty" : 9.00,
     "totalAmount" : 220.47,
     "totalCostOfSales" : 77.55,
@@ -3305,8 +3222,7 @@
       "model" : "ProMaster City",
       "description" : "2016 Ram ProMaster City MILEAGE 152,524",
       "vin" : "ZFBERFAT6G6C77871",
-      "mileage" : 152524,
-      "notes" : "nullDOT 00BJRB1A3225\n"
+      "mileage" : 152524
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3417,6 +3333,7 @@
   }, {
     "invoiceId" : 38,
     "invoiceDate" : "2025-12-22",
+    "notes" : "ALIGNMENT  DECLINE\nDOT 00B1HRB1A 2925 2925\nROAD HAZARD DECLINED\n",
     "totalQty" : 9.00,
     "totalAmount" : 204.69,
     "totalCostOfSales" : 129.54,
@@ -3435,8 +3352,7 @@
       "model" : "Sentra",
       "description" : "2012 Nissan Sentra MILEAGE 142,161",
       "vin" : "3N1AB6AP8CL637791",
-      "mileage" : 142161,
-      "notes" : "nullALIGNMENT  DECLINE\nDOT 00B1HRB1A 2925 2925\nROAD HAZARD DECLINED\n"
+      "mileage" : 142161
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3517,6 +3433,7 @@
   }, {
     "invoiceId" : 39,
     "invoiceDate" : "2026-01-08",
+    "notes" : null,
     "totalQty" : 2.00,
     "totalAmount" : 55.98,
     "totalCostOfSales" : null,
@@ -3535,8 +3452,7 @@
       "model" : "Silverado 2500 HD",
       "description" : "2016 Chevrolet Silverado 2500 HD MILEAGE 53083",
       "vin" : "1GC1KWE89GF120175",
-      "mileage" : 53083,
-      "notes" : null
+      "mileage" : 53083
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3572,6 +3488,7 @@
   }, {
     "invoiceId" : 40,
     "invoiceDate" : "2025-12-30",
+    "notes" : "DOT: 00BKBRB1A2625,2625,2625,2625\nSOLD TO SNAP AND LEASED TO CUSTOMER\n",
     "totalQty" : 22.00,
     "totalAmount" : 654.94,
     "totalCostOfSales" : 293.94,
@@ -3585,13 +3502,12 @@
       "phone" : "3163512452"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2001,
+      "make" : "BUICK",
+      "model" : "LESABRE",
       "description" : "2001 BUICK LESABRE MILES: 199,134",
       "vin" : "1G4HP54KX14213471",
-      "mileage" : 0,
-      "notes" : "nullDOT: 00BKBRB1A2625,2625,2625,2625\nSOLD TO SNAP AND LEASED TO CUSTOMER\n"
+      "mileage" : 199134
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3702,6 +3618,7 @@
   }, {
     "invoiceId" : 41,
     "invoiceDate" : "2026-01-02",
+    "notes" : null,
     "totalQty" : 3.00,
     "totalAmount" : 130.04,
     "totalCostOfSales" : 0.04,
@@ -3720,8 +3637,7 @@
       "model" : "Equinox",
       "description" : "2019 Chevrolet Equinox MILEAGE 119,688",
       "vin" : "2GNAXUEV4K6211084",
-      "mileage" : 119688,
-      "notes" : null
+      "mileage" : 119688
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -3772,6 +3688,7 @@
   }, {
     "invoiceId" : 42,
     "invoiceDate" : "2025-12-23",
+    "notes" : "CARRY IN CARRY OUT\n",
     "totalQty" : 3.00,
     "totalAmount" : 57.78,
     "totalCostOfSales" : 0.04,
@@ -3784,15 +3701,7 @@
       "billToContact" : "",
       "phone" : "3162098699"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -3842,6 +3751,7 @@
   }, {
     "invoiceId" : 43,
     "invoiceDate" : "2026-01-13",
+    "notes" : "DOT: 00BTHRB1A2625,2625\nDOT: 00BTHRB1A3424,2525\n",
     "totalQty" : 47.35,
     "totalAmount" : 2972.80,
     "totalCostOfSales" : 277.72,
@@ -3856,12 +3766,11 @@
     },
     "vehicle" : {
       "year" : 2012,
-      "make" : "Lexus",
+      "make" : "LEXUS",
       "model" : "IS250",
       "description" : "2012 LEXUS IS 250 MILES: 162,109",
       "vin" : "JTHCF5C2XC5053493",
-      "mileage" : 161697,
-      "notes" : "null2012 Lexus IS250 MILEAGE 161,697\n2012 LEXUS IS250 MILES: 161,246\n2012 LEXUS IS250 MILES: 161,246\nDOT: 00BTHRB1A2625,2625\nDOT: 00BTHRB1A3424,2525\n"
+      "mileage" : 161246
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4062,6 +3971,7 @@
   }, {
     "invoiceId" : 44,
     "invoiceDate" : "2025-12-12",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 78.44,
     "totalCostOfSales" : 0.04,
@@ -4080,8 +3990,7 @@
       "model" : "Terrain",
       "description" : "2017 GMC Terrain MILEAGE 117,327",
       "vin" : "2GKFLVE34H6313612",
-      "mileage" : 117327,
-      "notes" : null
+      "mileage" : 117327
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4132,6 +4041,7 @@
   }, {
     "invoiceId" : 45,
     "invoiceDate" : "2025-12-30",
+    "notes" : "DOT: 1CXA724924025,4025,4125,4125\n",
     "totalQty" : 35.10,
     "totalAmount" : 2290.14,
     "totalCostOfSales" : 683.32,
@@ -4145,13 +4055,12 @@
       "phone" : "3166700574"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2019,
+      "make" : "FORD",
+      "model" : "TRANSIT-250",
       "description" : "2019 FORD TRANSIT-250 MILES: 121,134",
       "vin" : "1FTYR2CM1KKB76503",
-      "mileage" : 0,
-      "notes" : "nullDOT: 1CXA724924025,4025,4125,4125\n"
+      "mileage" : 121134
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4307,6 +4216,7 @@
   }, {
     "invoiceId" : 46,
     "invoiceDate" : "2025-12-15",
+    "notes" : "DOT: 03XLMRB1A1025\nROAD HAZARD DECLINED\n",
     "totalQty" : 7.00,
     "totalAmount" : 245.91,
     "totalCostOfSales" : 72.00,
@@ -4320,13 +4230,12 @@
       "phone" : "3167216976"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2016,
+      "make" : "HYUNDAI",
+      "model" : "SONATA",
       "description" : "2016 HYUNDAI SONATA MILES: 81,521",
       "vin" : "5NPE34AF9GH381254",
-      "mileage" : 0,
-      "notes" : "nullDOT: 03XLMRB1A1025\nROAD HAZARD DECLINED\n"
+      "mileage" : 81521
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4437,6 +4346,7 @@
   }, {
     "invoiceId" : 47,
     "invoiceDate" : "2025-12-23",
+    "notes" : null,
     "totalQty" : 14.00,
     "totalAmount" : 229.10,
     "totalCostOfSales" : 0.04,
@@ -4450,13 +4360,12 @@
       "phone" : "3165503474"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2010,
+      "make" : "CHEVY",
+      "model" : "SILVERADO 1500",
       "description" : "2010 CHEVY SILVERADO 1500 MILES: 151,368",
       "vin" : "1GCPCPEA7AZ182499",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 151368
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4522,6 +4431,7 @@
   }, {
     "invoiceId" : 48,
     "invoiceDate" : "2026-01-10",
+    "notes" : null,
     "totalQty" : 2.00,
     "totalAmount" : 125.98,
     "totalCostOfSales" : null,
@@ -4540,8 +4450,7 @@
       "model" : "RAV4",
       "description" : "2011 Toyota RAV4  MILEAGE 215,302",
       "vin" : "2T3ZF4DV2BW089944",
-      "mileage" : 215302,
-      "notes" : null
+      "mileage" : 215302
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4577,6 +4486,7 @@
   }, {
     "invoiceId" : 49,
     "invoiceDate" : "2026-01-06",
+    "notes" : "DOT# 076BCHY79 2325 2325 2325 2325\nROAD HAZARD AND ALIGNMENT DECLINED\n",
     "totalQty" : 18.00,
     "totalAmount" : 691.59,
     "totalCostOfSales" : 378.87,
@@ -4595,8 +4505,7 @@
       "model" : "Accord",
       "description" : "2015 Honda Accord MILEAGE",
       "vin" : "1HGCT2A87FA005009",
-      "mileage" : 0,
-      "notes" : "nullDOT# 076BCHY79 2325 2325 2325 2325\nROAD HAZARD AND ALIGNMENT DECLINED\n"
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4692,6 +4601,7 @@
   }, {
     "invoiceId" : 50,
     "invoiceDate" : "2026-01-12",
+    "notes" : null,
     "totalQty" : 11.00,
     "totalAmount" : 398.38,
     "totalCostOfSales" : 1.98,
@@ -4710,8 +4620,7 @@
       "model" : "F-150",
       "description" : "2015 Ford F-150 MILEAGE 113,628",
       "vin" : "1FTEX1CP4FKF17086",
-      "mileage" : 113628,
-      "notes" : null
+      "mileage" : 113628
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -4777,6 +4686,7 @@
   }, {
     "invoiceId" : 51,
     "invoiceDate" : "2026-01-02",
+    "notes" : null,
     "totalQty" : 14.80,
     "totalAmount" : 884.86,
     "totalCostOfSales" : null,
@@ -4789,15 +4699,7 @@
       "billToContact" : "",
       "phone" : "9182609153"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : "1GKKVSKDXDJ220658",
-      "mileage" : 0,
-      "notes" : null
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "DISCOUNT",
@@ -4877,6 +4779,7 @@
   }, {
     "invoiceId" : 52,
     "invoiceDate" : "2025-12-03",
+    "notes" : "2018 INFINITI QX60 MILES: 126,943\nDOT: 1B3MB026X5024,1925,4125,4225\nSOLD TO ACIMA AND LEASED TO CUSTOMER\n",
     "totalQty" : 23.00,
     "totalAmount" : 1422.57,
     "totalCostOfSales" : 837.90,
@@ -4890,13 +4793,12 @@
       "phone" : "3167519291"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2019,
+      "make" : "NISSAN",
+      "model" : "PATHFINDER",
       "description" : "2019 NISSAN PATHFINDER MILES: 70,878",
       "vin" : "5N1DL0MM4JC507923",
-      "mileage" : 0,
-      "notes" : "null2018 INFINITI QX60 MILES: 126,943\nDOT: 1B3MB026X5024,1925,4125,4225\nSOLD TO ACIMA AND LEASED TO CUSTOMER\nAdditional VIN info: 5N1DR2MM0KC636186\n"
+      "mileage" : 70878
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5037,6 +4939,7 @@
   }, {
     "invoiceId" : 53,
     "invoiceDate" : "2025-12-01",
+    "notes" : "CUSTOMER REJECT ROAD HAZARD\nDOT # 02TMRAATA 0824 0824\nINSTALLED ON 12/08/2025\nSPECIAL ORDER\n",
     "totalQty" : 11.00,
     "totalAmount" : 794.64,
     "totalCostOfSales" : 10.54,
@@ -5055,8 +4958,7 @@
       "model" : "Silverado 1500",
       "description" : "2017 Chevrolet Silverado 1500 MILEAGE 149,905",
       "vin" : "3GCPCREC3HG387390",
-      "mileage" : 149905,
-      "notes" : "nullCUSTOMER REJECT ROAD HAZARD\nDOT # 02TMRAATA 0824 0824\nINSTALLED ON 12/08/2025\nSPECIAL ORDER\n"
+      "mileage" : 149905
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5167,6 +5069,7 @@
   }, {
     "invoiceId" : 54,
     "invoiceDate" : "2026-01-14",
+    "notes" : "NEEDS REAR TIRES\n",
     "totalQty" : 4.00,
     "totalAmount" : 390.00,
     "totalCostOfSales" : null,
@@ -5180,13 +5083,12 @@
       "phone" : "3169424747"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2016,
+      "make" : "JEEP",
+      "model" : "CHEROKEE",
       "description" : "2002 JEEP LIBERTY MILES: 192,970",
       "vin" : "1G1ZE5E17BF117414",
-      "mileage" : 0,
-      "notes" : "null2010 CHEVY MALIBU MILES 168,600\n2012 KIA FORTE MILES: 148,770\n2016 JEEP CHEROKEE MILES: 114,023\nNEEDS REAR TIRES\nAdditional VIN info: 1C4PJLAB1GW351360\nAdditional VIN info: 1J4GL48K52W355842\nAdditional VIN info: KNAFU4A24C5478447\n"
+      "mileage" : 114023
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5207,6 +5109,7 @@
   }, {
     "invoiceId" : 55,
     "invoiceDate" : "2026-01-12",
+    "notes" : "CURRY OUT CUSTOMER OWN TIRE\n",
     "totalQty" : 2.00,
     "totalAmount" : 36.98,
     "totalCostOfSales" : null,
@@ -5219,15 +5122,7 @@
       "billToContact" : "",
       "phone" : "3162502027"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCURRY OUT CUSTOMER OWN TIRE\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "LABOR",
@@ -5262,6 +5157,7 @@
   }, {
     "invoiceId" : 56,
     "invoiceDate" : "2025-12-24",
+    "notes" : "SPECIAL ORDER\n",
     "totalQty" : 6.00,
     "totalAmount" : 363.59,
     "totalCostOfSales" : 212.79,
@@ -5274,15 +5170,7 @@
       "billToContact" : "",
       "phone" : "3168331212"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullSPECIAL ORDER\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -5377,6 +5265,7 @@
   }, {
     "invoiceId" : 57,
     "invoiceDate" : "2025-12-04",
+    "notes" : null,
     "totalQty" : 6.00,
     "totalAmount" : 70.16,
     "totalCostOfSales" : 0.04,
@@ -5390,13 +5279,12 @@
       "phone" : "3162597499"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2012,
+      "make" : "JEEP",
+      "model" : "WRANGLER",
       "description" : "2012 JEEP WRANGLER MILES: 133,057",
       "vin" : "1C4BJWFG4CL267402",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 133057
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5462,6 +5350,7 @@
   }, {
     "invoiceId" : 58,
     "invoiceDate" : "2025-12-27",
+    "notes" : null,
     "totalQty" : 3.00,
     "totalAmount" : 140.36,
     "totalCostOfSales" : 0.04,
@@ -5474,15 +5363,7 @@
       "billToContact" : "",
       "phone" : "3167372446"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "1972 CHEVY C MILES2641",
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : null
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "align",
@@ -5532,6 +5413,7 @@
   }, {
     "invoiceId" : 59,
     "invoiceDate" : "2025-12-03",
+    "notes" : "CUSTOMER REJECT ROAD HAZARD\nDOT 03XKUPB4A 1825\n",
     "totalQty" : 5.00,
     "totalAmount" : 168.24,
     "totalCostOfSales" : 118.85,
@@ -5550,8 +5432,7 @@
       "model" : "QX70",
       "description" : "2016 Infiniti QX70 MILEAGE 125,892",
       "vin" : "JN8CS1MU8GM670140",
-      "mileage" : 125892,
-      "notes" : "nullCUSTOMER REJECT ROAD HAZARD\nDOT 03XKUPB4A 1825\n"
+      "mileage" : 125892
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5632,6 +5513,7 @@
   }, {
     "invoiceId" : 60,
     "invoiceDate" : "2025-12-03",
+    "notes" : null,
     "totalQty" : 4.20,
     "totalAmount" : 194.03,
     "totalCostOfSales" : 0.04,
@@ -5650,8 +5532,7 @@
       "model" : "C1500 Pickup RWD",
       "description" : "2001 Chevrolet C1500 Pickup RWD MILEAGE 123,878",
       "vin" : "1GCEC14W312274341",
-      "mileage" : 123878,
-      "notes" : null
+      "mileage" : 123878
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5717,6 +5598,7 @@
   }, {
     "invoiceId" : 61,
     "invoiceDate" : "2026-01-03",
+    "notes" : null,
     "totalQty" : 3.00,
     "totalAmount" : 130.04,
     "totalCostOfSales" : 0.04,
@@ -5735,8 +5617,7 @@
       "model" : "ACCORD",
       "description" : "2016 HONDA ACCORD MILEAGE 191,749",
       "vin" : "1HGCR2F54GA168600",
-      "mileage" : 191749,
-      "notes" : null
+      "mileage" : 191749
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -5787,6 +5668,7 @@
   }, {
     "invoiceId" : 62,
     "invoiceDate" : "2026-01-07",
+    "notes" : "CARRY IN CARRY OUT\n",
     "totalQty" : 2.00,
     "totalAmount" : 75.98,
     "totalCostOfSales" : null,
@@ -5799,15 +5681,7 @@
       "billToContact" : "",
       "phone" : "3168713839"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -5857,6 +5731,7 @@
   }, {
     "invoiceId" : 63,
     "invoiceDate" : "2025-12-22",
+    "notes" : "DOT# COA3181R 0723 0623\n",
     "totalQty" : 13.00,
     "totalAmount" : 258.90,
     "totalCostOfSales" : 113.08,
@@ -5875,8 +5750,7 @@
       "model" : "Elantra",
       "description" : "2010 Hyundai Elantra MILEAGE 105,389",
       "vin" : "KMHDU4AD6AU862577",
-      "mileage" : 105389,
-      "notes" : "nullDOT# COA3181R 0723 0623\n"
+      "mileage" : 105389
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6017,6 +5891,7 @@
   }, {
     "invoiceId" : 64,
     "invoiceDate" : "2025-12-18",
+    "notes" : "CARRY IN CARRY OUT\nDOT# 1TB8CKA5C 1725 1725\nDOT: 04NJTUHPC 0424 0424\nINSTALLED AND CARRIED OUT ON 12/15/2025\nROAD HAZARD DECLINED\nSPECIAL ORDER\n",
     "totalQty" : 19.00,
     "totalAmount" : 783.86,
     "totalCostOfSales" : 20.50,
@@ -6035,8 +5910,7 @@
       "model" : "CLS550",
       "description" : "2008 Mercedes-Benz CLS550 MILEAGE  69,242",
       "vin" : "WDDDJ72X38A130383",
-      "mileage" : 69242,
-      "notes" : "nullCARRY IN CARRY OUT\nDOT# 1TB8CKA5C 1725 1725\nDOT: 04NJTUHPC 0424 0424\nINSTALLED AND CARRIED OUT ON 12/15/2025\nROAD HAZARD DECLINED\nSPECIAL ORDER\n"
+      "mileage" : 69242
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6147,6 +6021,7 @@
   }, {
     "invoiceId" : 65,
     "invoiceDate" : "2025-12-31",
+    "notes" : "DOT: 00BTHRB1A3324\n",
     "totalQty" : 7.00,
     "totalAmount" : 129.26,
     "totalCostOfSales" : 68.30,
@@ -6160,13 +6035,12 @@
       "phone" : "5597092314"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2023,
+      "make" : "HYUNDAI",
+      "model" : "ELANTRA",
       "description" : "2023 HYUNDAI ELANTRA MILES: 32,571",
       "vin" : "5NPLP4AG01PH090431",
-      "mileage" : 0,
-      "notes" : "nullDOT: 00BTHRB1A3324\n"
+      "mileage" : 32571
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6277,6 +6151,7 @@
   }, {
     "invoiceId" : 66,
     "invoiceDate" : "2026-01-12",
+    "notes" : "03XENPB4A 1125 1125 0925 1125\nCUSTOMER HAS BEEN INFORMED VEHICLE NEEDS FRONT END WORK AND ALIGNMENT. FAILURE TO REPAIR WILL CAUSE TIRES TO WEAR PREMATURELY AND UNEVENLY\nCUSTOMER REJECT ROAD HAZARD\n",
     "totalQty" : 24.50,
     "totalAmount" : 960.19,
     "totalCostOfSales" : 474.58,
@@ -6293,10 +6168,9 @@
       "year" : 2014,
       "make" : "Chevrolet",
       "model" : "Silverado 1500",
-      "description" : "2014 Chevrolet Silverado 1500 MILEAG 261,125",
+      "description" : "2014 Chevrolet Silverado 1500 MILEAGE",
       "vin" : "1GCRCPEC0EZ144130",
-      "mileage" : 0,
-      "notes" : "null03XENPB4A 1125 1125 0925 1125\n2014 Chevrolet Silverado 1500 MILEAGE\nCUSTOMER HAS BEEN INFORMED VEHICLE NEEDS FRONT END WORK AND ALIGNMENT. FAILURE TO REPAIR WILL CAUSE TIRES TO WEAR PREMATURELY AND UNEVENLY\nCUSTOMER REJECT ROAD HAZARD\n"
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6452,6 +6326,7 @@
   }, {
     "invoiceId" : 67,
     "invoiceDate" : "2025-12-06",
+    "notes" : "CARRY OUT\nDOT#1TBX7K95C4423\n",
     "totalQty" : 5.00,
     "totalAmount" : 307.95,
     "totalCostOfSales" : 312.99,
@@ -6464,15 +6339,7 @@
       "billToContact" : "",
       "phone" : "6206601266"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY OUT\nDOT#1TBX7K95C4423\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -6552,6 +6419,7 @@
   }, {
     "invoiceId" : 68,
     "invoiceDate" : "2026-01-06",
+    "notes" : "DOT: 05C9R22220625,0625\n",
     "totalQty" : 10.00,
     "totalAmount" : 600.04,
     "totalCostOfSales" : 342.06,
@@ -6565,13 +6433,12 @@
       "phone" : "3162959101"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2008,
+      "make" : "FORD",
+      "model" : "EXPLORER",
       "description" : "2008 FORD EXPLORER MILES: 225,086",
       "vin" : "1FMEU74E18UA81633",
-      "mileage" : 0,
-      "notes" : "nullDOT: 05C9R22220625,0625\n"
+      "mileage" : 225086
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6667,6 +6534,7 @@
   }, {
     "invoiceId" : 69,
     "invoiceDate" : "2025-12-31",
+    "notes" : "DOT: 1CMUV1CC43325,3325,3325,3325\n",
     "totalQty" : 21.00,
     "totalAmount" : 1163.80,
     "totalCostOfSales" : 666.00,
@@ -6680,13 +6548,12 @@
       "phone" : "7858063972"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2016,
+      "make" : "FORD",
+      "model" : "EXPLORER",
       "description" : "2016 FORD EXPLORER MILES: 152,750",
       "vin" : "1FM5K8GT3GGC62431",
-      "mileage" : 0,
-      "notes" : "nullDOT: 1CMUV1CC43325,3325,3325,3325\n"
+      "mileage" : 152750
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6812,6 +6679,7 @@
   }, {
     "invoiceId" : 70,
     "invoiceDate" : "2025-12-08",
+    "notes" : null,
     "totalQty" : 5.00,
     "totalAmount" : 90.79,
     "totalCostOfSales" : 0.04,
@@ -6825,13 +6693,12 @@
       "phone" : "7204761209"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2013,
+      "make" : "FORD",
+      "model" : "EDGE",
       "description" : "2013 FORD EDGE MILES: 148,881",
       "vin" : "2FMDK3AKXDBB78513",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 148881
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -6912,6 +6779,7 @@
   }, {
     "invoiceId" : 71,
     "invoiceDate" : "2025-12-31",
+    "notes" : "DOT: 03X5PLB4A3923\nTRADEBANK: $35.99\n",
     "totalQty" : 6.00,
     "totalAmount" : 156.11,
     "totalCostOfSales" : 102.23,
@@ -6925,13 +6793,12 @@
       "phone" : "3167212731"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 1996,
+      "make" : "GMC",
+      "model" : "G3500",
       "description" : "1996 GMC G3500 MILES: 155,750",
       "vin" : "1GTGG35KXTF502974",
-      "mileage" : 0,
-      "notes" : "nullDOT: 03X5PLB4A3923\nTRADEBANK: $35.99\n"
+      "mileage" : 155750
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7027,6 +6894,7 @@
   }, {
     "invoiceId" : 72,
     "invoiceDate" : "2025-12-22",
+    "notes" : "DOT# 00BKARP1A 3225\nROAD HAZARD DECLINED\n",
     "totalQty" : 6.00,
     "totalAmount" : 116.89,
     "totalCostOfSales" : 67.80,
@@ -7045,8 +6913,7 @@
       "model" : "Camry",
       "description" : "2011 Toyota Camry MILEAGE 172,643",
       "vin" : "4T1BF3EK7BU127628",
-      "mileage" : 172643,
-      "notes" : "nullDOT# 00BKARP1A 3225\nROAD HAZARD DECLINED\n"
+      "mileage" : 172643
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7142,6 +7009,7 @@
   }, {
     "invoiceId" : 73,
     "invoiceDate" : "2026-01-08",
+    "notes" : "DOT: 03XMEPB4A3325,3325,3325,3425\nROAD HAZARD AND ALIGNMENT DECLINED\n",
     "totalQty" : 18.00,
     "totalAmount" : 738.04,
     "totalCostOfSales" : 472.08,
@@ -7155,13 +7023,12 @@
       "phone" : "3162144082"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2020,
+      "make" : "FORD",
+      "model" : "F-150",
       "description" : "2020 FORD F-150 MILES:",
       "vin" : "1FTEW1E5XLKF16681",
-      "mileage" : 0,
-      "notes" : "nullDOT: 03XMEPB4A3325,3325,3325,3425\nROAD HAZARD AND ALIGNMENT DECLINED\n"
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7257,6 +7124,7 @@
   }, {
     "invoiceId" : 74,
     "invoiceDate" : "2026-01-02",
+    "notes" : null,
     "totalQty" : 14.20,
     "totalAmount" : 1244.25,
     "totalCostOfSales" : 0.04,
@@ -7275,8 +7143,7 @@
       "model" : "Focus",
       "description" : "2015 Ford Focus MILEAGE 196,361",
       "vin" : "1FADP3F22FL233463",
-      "mileage" : 196361,
-      "notes" : null
+      "mileage" : 196361
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7372,6 +7239,7 @@
   }, {
     "invoiceId" : 75,
     "invoiceDate" : "2025-12-19",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 73.26,
     "totalCostOfSales" : 5.04,
@@ -7385,13 +7253,12 @@
       "phone" : "3169902136"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2013,
+      "make" : "NISSAN",
+      "model" : "ARMADA",
       "description" : "2013 NISSAN ARMADA MILES: 164,189",
       "vin" : "5N1BA0ND3DN600159",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 164189
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7457,6 +7324,7 @@
   }, {
     "invoiceId" : 76,
     "invoiceDate" : "2025-12-22",
+    "notes" : "2003 HUMMER H2 MILES: 106,119\n",
     "totalQty" : 1.00,
     "totalAmount" : 15.80,
     "totalCostOfSales" : null,
@@ -7469,15 +7337,7 @@
       "billToContact" : "",
       "phone" : "3162641567"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : "5GRGN23U83H118277",
-      "mileage" : 0,
-      "notes" : "null2003 HUMMER H2 MILES: 106,119\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "DISCOUNT",
@@ -7527,6 +7387,7 @@
   }, {
     "invoiceId" : 77,
     "invoiceDate" : "2025-12-31",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 62.94,
     "totalCostOfSales" : 5.04,
@@ -7540,13 +7401,12 @@
       "phone" : "3162824550"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2016,
+      "make" : "KIA",
+      "model" : "FORTE",
       "description" : "2016 KIA FORTE MILES: 111,493",
       "vin" : "KNAFX4A60G5510150",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 111493
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7612,6 +7472,7 @@
   }, {
     "invoiceId" : 78,
     "invoiceDate" : "2025-12-20",
+    "notes" : "1FTW14V68KB38991\n",
     "totalQty" : 5.30,
     "totalAmount" : 455.70,
     "totalCostOfSales" : 0.04,
@@ -7624,15 +7485,7 @@
       "billToContact" : "",
       "phone" : "3163995536"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "2008 FORD F150 MILES 183,367",
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "null1FTW14V68KB38991\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -7712,6 +7565,7 @@
   }, {
     "invoiceId" : 79,
     "invoiceDate" : "2025-12-26",
+    "notes" : "DOT#05CCY229 4724 4724 4724 4624\nROAD HAZARD AND ALIGNMENT DECLINED\nSOLD TO SNAP AND LEASED TO CUSTOMER\nSPECIAL ORDER INSTALLED ON 01/06/2026\n",
     "totalQty" : 57.00,
     "totalAmount" : 3292.58,
     "totalCostOfSales" : 981.00,
@@ -7730,8 +7584,7 @@
       "model" : "F-150",
       "description" : "2016 Ford F-150  MILEAGE 167,413",
       "vin" : "2014FORDMUSTANGMILES99,9431ZVBP8AM0E5313593",
-      "mileage" : 167413,
-      "notes" : "nullDOT#05CCY229 4724 4724 4724 4624\nROAD HAZARD AND ALIGNMENT DECLINED\nSOLD TO SNAP AND LEASED TO CUSTOMER\nSPECIAL ORDER INSTALLED ON 01/06/2026\nAdditional VIN info: 1FTEW1CP5GK47234\n"
+      "mileage" : 167413
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -7857,6 +7710,7 @@
   }, {
     "invoiceId" : 80,
     "invoiceDate" : "2025-12-23",
+    "notes" : "2014 SCION TC MILES: 182,165\n",
     "totalQty" : 5.00,
     "totalAmount" : 148.09,
     "totalCostOfSales" : 0.04,
@@ -7869,15 +7723,7 @@
       "billToContact" : "",
       "phone" : "3166332807"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : "JTKJF5C79E3083354",
-      "mileage" : 0,
-      "notes" : "null2014 SCION TC MILES: 182,165\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -7987,6 +7833,7 @@
   }, {
     "invoiceId" : 81,
     "invoiceDate" : "2026-01-08",
+    "notes" : "00KXU3AFL 3925 3925\nIMS: $115.99\nROAD HAZARD AND ALIGNMENT DECLINED\n",
     "totalQty" : 10.00,
     "totalAmount" : 556.97,
     "totalCostOfSales" : 371.40,
@@ -8005,8 +7852,7 @@
       "model" : "F-150",
       "description" : "2010 Ford F-150  MILEAGE 305,948",
       "vin" : "1FTEX1E61AFB75876",
-      "mileage" : 305948,
-      "notes" : "null00KXU3AFL 3925 3925\nIMS: $115.99\nROAD HAZARD AND ALIGNMENT DECLINED\n"
+      "mileage" : 305948
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8102,6 +7948,7 @@
   }, {
     "invoiceId" : 82,
     "invoiceDate" : "2025-12-04",
+    "notes" : null,
     "totalQty" : 7.00,
     "totalAmount" : 278.62,
     "totalCostOfSales" : 0.04,
@@ -8120,8 +7967,7 @@
       "model" : "Tahoe",
       "description" : "2007 Chevrolet Tahoe MILEAGE 200,797",
       "vin" : "1GNFC13J77R117809",
-      "mileage" : 200797,
-      "notes" : null
+      "mileage" : 200797
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8187,6 +8033,7 @@
   }, {
     "invoiceId" : 83,
     "invoiceDate" : "2025-12-31",
+    "notes" : "DOT: 1TBWACY5C2025\n",
     "totalQty" : 6.00,
     "totalAmount" : 277.24,
     "totalCostOfSales" : 115.24,
@@ -8200,13 +8047,12 @@
       "phone" : "3166886400"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2021,
+      "make" : "GMC",
+      "model" : "SIERRA 1500",
       "description" : "2021 GMC SIERRA 1500 MILES: 57,177",
       "vin" : "3GTU9CED3MG289560",
-      "mileage" : 0,
-      "notes" : "nullDOT: 1TBWACY5C2025\n"
+      "mileage" : 57177
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8302,6 +8148,7 @@
   }, {
     "invoiceId" : 84,
     "invoiceDate" : "2025-12-11",
+    "notes" : null,
     "totalQty" : 11.00,
     "totalAmount" : 295.20,
     "totalCostOfSales" : 20.04,
@@ -8315,13 +8162,12 @@
       "phone" : "2247753511"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2006,
+      "make" : "TOYOTA",
+      "model" : "SIENNA",
       "description" : "2006 TOYOTA SIENNA MILES: 226,740",
       "vin" : "5TDBA22C86S072871",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 226740
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8402,6 +8248,7 @@
   }, {
     "invoiceId" : 85,
     "invoiceDate" : "2025-12-31",
+    "notes" : "CARRY IN CARRY OUT\n",
     "totalQty" : 2.00,
     "totalAmount" : 50.05,
     "totalCostOfSales" : null,
@@ -8414,15 +8261,7 @@
       "billToContact" : "",
       "phone" : "3169419837"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : null,
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullCARRY IN CARRY OUT\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "DISCOUNT",
@@ -8472,6 +8311,7 @@
   }, {
     "invoiceId" : 86,
     "invoiceDate" : "2026-01-09",
+    "notes" : null,
     "totalQty" : 5.00,
     "totalAmount" : 103.18,
     "totalCostOfSales" : null,
@@ -8485,13 +8325,12 @@
       "phone" : "6202185708"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2022,
+      "make" : "CHEVY",
+      "model" : "SILVERADO 1500",
       "description" : "2022 CHEVY SILVERADO 1500 MILES: 82,476",
       "vin" : "1GCPYJEK1NZ227191",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 82476
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8572,6 +8411,7 @@
   }, {
     "invoiceId" : 87,
     "invoiceDate" : "2026-01-02",
+    "notes" : null,
     "totalQty" : 2.00,
     "totalAmount" : 200.00,
     "totalCostOfSales" : null,
@@ -8590,8 +8430,7 @@
       "model" : "Durango",
       "description" : "2010 Nissan Murano MILEAGE 139,720",
       "vin" : "1C4RDJAG8DC554219",
-      "mileage" : 170395,
-      "notes" : "null2013 Dodge Durango MILEAGE 170,395\n"
+      "mileage" : 170395
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8612,6 +8451,7 @@
   }, {
     "invoiceId" : 88,
     "invoiceDate" : "2025-12-23",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 248.75,
     "totalCostOfSales" : null,
@@ -8625,13 +8465,12 @@
       "phone" : "3162214982"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2018,
+      "make" : "DODGE",
+      "model" : "CHALLENGER",
       "description" : "2018 DODGE CHALLENGER MILES:110,601",
       "vin" : "2C3CDZAG9JH241803",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 110601
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8682,6 +8521,7 @@
   }, {
     "invoiceId" : 89,
     "invoiceDate" : "2025-12-08",
+    "notes" : "ALIGNMENT AND ROAD HAZARD DECLINED\nDOT#OOKTFKCJ 3124 3124 3124 3124\nSPECIAL ORDER\n",
     "totalQty" : 18.00,
     "totalAmount" : 743.95,
     "totalCostOfSales" : 472.08,
@@ -8700,8 +8540,7 @@
       "model" : "Ram 1500",
       "description" : "1999 Dodge Ram 1500 MILEAGE 191,633",
       "vin" : "3B7HC13Y5XG169292",
-      "mileage" : 191633,
-      "notes" : "nullALIGNMENT AND ROAD HAZARD DECLINED\nDOT#OOKTFKCJ 3124 3124 3124 3124\nSPECIAL ORDER\n"
+      "mileage" : 191633
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -8797,6 +8636,7 @@
   }, {
     "invoiceId" : 90,
     "invoiceDate" : "2026-01-13",
+    "notes" : "MILES 36011\n",
     "totalQty" : 4.00,
     "totalAmount" : 47.49,
     "totalCostOfSales" : 6.98,
@@ -8809,15 +8649,7 @@
       "billToContact" : "",
       "phone" : "6207552703"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "2023 SUBARU WRX GT VIN JF1VBAU67P8809520",
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullMILES 36011\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "CREDIT CARD FEE",
@@ -8882,6 +8714,7 @@
   }, {
     "invoiceId" : 91,
     "invoiceDate" : "2025-12-30",
+    "notes" : "ALIGNMENT DECLINED\nDOT: 00KTV4FFL0725,0725,0725,0725\nDOT: 1CXL21AE45124,5124,5124,3725\nROAD HAZARD DECLINED\nTIRE PROTECTION REJECTED\n",
     "totalQty" : 37.00,
     "totalAmount" : 1847.42,
     "totalCostOfSales" : 1123.72,
@@ -8895,13 +8728,12 @@
       "phone" : "3162085396"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2018,
+      "make" : "TOYOTA",
+      "model" : "HIGHLANDER",
       "description" : "2007 TOYOTA TUNDRA MILES: 169,106",
       "vin" : "5TBDV581X7S460182",
-      "mileage" : 0,
-      "notes" : "null2018 TOYOTA HIGHLANDER MILES: 69,602\nALIGNMENT DECLINED\nDOT: 00KTV4FFL0725,0725,0725,0725\nDOT: 1CXL21AE45124,5124,5124,3725\nROAD HAZARD DECLINED\nTIRE PROTECTION REJECTED\nAdditional VIN info: 5TDJZRFH5JS815871\n"
+      "mileage" : 69602
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9027,6 +8859,7 @@
   }, {
     "invoiceId" : 92,
     "invoiceDate" : "2025-12-06",
+    "notes" : "IN: 1FTEW1EG6FFC16411\nPAID BY IMS\nPAID IMS 98.87\n",
     "totalQty" : 7.00,
     "totalAmount" : 193.93,
     "totalCostOfSales" : null,
@@ -9043,10 +8876,9 @@
       "year" : 2018,
       "make" : "Dodge",
       "model" : "Journey",
-      "description" : "2015 FORD F150 MILES125,375",
+      "description" : "2018 Dodge Journey MILEAGE 88,848",
       "vin" : "3C4PDCAB3JT381562",
-      "mileage" : 88848,
-      "notes" : "null2018 Dodge Journey MILEAGE 88,848\nIN: 1FTEW1EG6FFC16411\nPAID BY IMS\nPAID IMS 98.87\n"
+      "mileage" : 88848
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9112,6 +8944,7 @@
   }, {
     "invoiceId" : 93,
     "invoiceDate" : "2025-12-08",
+    "notes" : "$835.98 SOLD TO SNAP AND LEASED TO CUSTOMER\n",
     "totalQty" : 9.00,
     "totalAmount" : 902.91,
     "totalCostOfSales" : null,
@@ -9125,13 +8958,12 @@
       "phone" : "3165507326"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2010,
+      "make" : "DODGE",
+      "model" : "GRAND CARAVAN",
       "description" : "2010 DODGE GRAND CARAVAN MILES: 153,092",
       "vin" : "2D4RN5D17AR111597",
-      "mileage" : 0,
-      "notes" : "null$835.98 SOLD TO SNAP AND LEASED TO CUSTOMER\n"
+      "mileage" : 153092
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9212,6 +9044,7 @@
   }, {
     "invoiceId" : 94,
     "invoiceDate" : "2025-12-23",
+    "notes" : null,
     "totalQty" : 18.00,
     "totalAmount" : 970.00,
     "totalCostOfSales" : 603.27,
@@ -9334,6 +9167,7 @@
   }, {
     "invoiceId" : 95,
     "invoiceDate" : "2025-12-19",
+    "notes" : "CUSTOMER REJECT ROAD HAZARD AND ALIGNMENT\nDOT# OOBLHRB1A 0925 1125 1125 1325\n",
     "totalQty" : 18.00,
     "totalAmount" : 415.98,
     "totalCostOfSales" : 256.02,
@@ -9352,8 +9186,7 @@
       "model" : "Beetle",
       "description" : "2009 Volkswagen Beetle MILEAGE 97,747",
       "vin" : "3VWPW31C59M514943",
-      "mileage" : 97747,
-      "notes" : "nullCUSTOMER REJECT ROAD HAZARD AND ALIGNMENT\nDOT# OOBLHRB1A 0925 1125 1125 1325\n"
+      "mileage" : 97747
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9449,6 +9282,7 @@
   }, {
     "invoiceId" : 96,
     "invoiceDate" : "2025-12-02",
+    "notes" : null,
     "totalQty" : 2.00,
     "totalAmount" : 55.98,
     "totalCostOfSales" : null,
@@ -9462,13 +9296,12 @@
       "phone" : "3168837056"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2014,
+      "make" : "CHEVY",
+      "model" : "MALIBU LT",
       "description" : "2014 CHEVY MALIBU LT MILES:  49,183",
       "vin" : "1G11E5S14EF155920",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 49183
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9504,6 +9337,7 @@
   }, {
     "invoiceId" : 97,
     "invoiceDate" : "2025-12-31",
+    "notes" : "DOT: 00BKHRB1A0325,0325,0325\nROAD HAZARD DECLINED\n",
     "totalQty" : 14.00,
     "totalAmount" : 381.24,
     "totalCostOfSales" : 228.61,
@@ -9517,13 +9351,12 @@
       "phone" : "4804179637"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2018,
+      "make" : "JEEP",
+      "model" : "RENEGADE",
       "description" : "2018 JEEP RENEGADE MILES: 156,270",
       "vin" : "ZACCJABBXJPH92622",
-      "mileage" : 0,
-      "notes" : "nullDOT: 00BKHRB1A0325,0325,0325\nROAD HAZARD DECLINED\n"
+      "mileage" : 156270
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9619,6 +9452,7 @@
   }, {
     "invoiceId" : 98,
     "invoiceDate" : "2025-12-18",
+    "notes" : "CUSTOMER STATED VEHICLE'S SEATS AND STEERING WHEEL WERE NO LONGER WARMING UP. UPON INSPECTION IT WAS FOUND THE PROBLEM\nDOT: 03XMEPB4A1125,1125,3325,3325\nROAD HAZARD DECLINED\nWAS CAUSED BY A BURNT FUSE. THE FUSE WAS REPLACED ON 12/31/2025 MILES: 55,416\n",
     "totalQty" : 39.80,
     "totalAmount" : 2668.83,
     "totalCostOfSales" : 472.04,
@@ -9632,13 +9466,12 @@
       "phone" : "3167375490"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2020,
+      "make" : "DODGE",
+      "model" : "CHARGER SXT",
       "description" : "2001 FORD F-150 MILES:",
       "vin" : "1FTRW07L91KA11784",
-      "mileage" : 0,
-      "notes" : "null2020 DODGE CHARGER SXT MILES:54,934\nCUSTOMER STATED VEHICLE'S SEATS AND STEERING WHEEL WERE NO LONGER WARMING UP. UPON INSPECTION IT WAS FOUND THE PROBLEM\nDOT: 03XMEPB4A1125,1125,3325,3325\nROAD HAZARD DECLINED\nAdditional VIN info: 2C3CDXBGXLH234283\nWAS CAUSED BY A BURNT FUSE. THE FUSE WAS REPLACED ON 12/31/2025 MILES: 55,416\n"
+      "mileage" : 54934
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9779,6 +9612,7 @@
   }, {
     "invoiceId" : 99,
     "invoiceDate" : "2025-12-31",
+    "notes" : "SOLD TO ACIMA AND LEASED TO CUSTOMER\n",
     "totalQty" : 9.10,
     "totalAmount" : 458.31,
     "totalCostOfSales" : null,
@@ -9792,13 +9626,12 @@
       "phone" : "3169930615"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2015,
+      "make" : "JEEP",
+      "model" : "WRANGLER UNLIMITED SAHARA",
       "description" : "2015 JEEP WRANGLER UNLIMITED SAHARA MILES:",
       "vin" : "1C4BJWEG4FL757862",
-      "mileage" : 0,
-      "notes" : "nullSOLD TO ACIMA AND LEASED TO CUSTOMER\n"
+      "mileage" : 0
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -9894,6 +9727,7 @@
   }, {
     "invoiceId" : 100,
     "invoiceDate" : "2025-12-08",
+    "notes" : "MILES 158458\n",
     "totalQty" : 2.00,
     "totalAmount" : -3.75,
     "totalCostOfSales" : null,
@@ -9906,15 +9740,7 @@
       "billToContact" : "",
       "phone" : "3168953824"
     },
-    "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
-      "description" : "2014 TOYOTA COROLLA VIN 5YFBURHE5EP115214",
-      "vin" : null,
-      "mileage" : 0,
-      "notes" : "nullMILES 158458\n"
-    },
+    "vehicle" : null,
     "lines" : [ {
       "sortOrder" : 0,
       "itemId" : "DISCOUNT",
@@ -9949,6 +9775,7 @@
   }, {
     "invoiceId" : 101,
     "invoiceDate" : "2025-12-31",
+    "notes" : null,
     "totalQty" : 4.00,
     "totalAmount" : 88.74,
     "totalCostOfSales" : 0.04,
@@ -9962,13 +9789,12 @@
       "phone" : "3162587277"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2024,
+      "make" : "FORD",
+      "model" : "F-150",
       "description" : "2024 FORD F-150 MILES: 12,161",
       "vin" : "1FTFW1RJ5RFB38167",
-      "mileage" : 0,
-      "notes" : null
+      "mileage" : 12161
     },
     "lines" : [ {
       "sortOrder" : 0,
@@ -10019,6 +9845,7 @@
   }, {
     "invoiceId" : 102,
     "invoiceDate" : "2025-12-29",
+    "notes" : "DOT: 00KNCFFCJ0725,0725,0725,0725\n",
     "totalQty" : 22.00,
     "totalAmount" : 692.58,
     "totalCostOfSales" : 521.49,
@@ -10032,13 +9859,12 @@
       "phone" : "3166411569"
     },
     "vehicle" : {
-      "year" : 0,
-      "make" : null,
-      "model" : null,
+      "year" : 2008,
+      "make" : "CHEVY",
+      "model" : "SILVERADO 1500",
       "description" : "2008 CHEVY SILVERADO 1500 MILES: 109,117",
       "vin" : "2GCEC19J381291740",
-      "mileage" : 0,
-      "notes" : "nullDOT: 00KNCFFCJ0725,0725,0725,0725\n"
+      "mileage" : 109117
     },
     "lines" : [ {
       "sortOrder" : 0,
