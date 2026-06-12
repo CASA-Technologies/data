@@ -1,0 +1,1623 @@
+[
+  {
+    "category": {
+      "name": "3.5\"",
+      "id": "12d17e4f-8465-4ed0-8c2d-4e529ccc6475"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "4\" x 6\"",
+      "id": "7a565651-3cd8-4e81-9cae-c09adcbc2c84"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "6\" x 8\"",
+      "id": "071e2abf-86da-4a9c-8212-1888cabbcb0a"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "5.25\"",
+      "id": "5e15d14f-1e70-4824-9199-05fc59ff4790"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "SPEAKER",
+      "id": "6209d88a-735d-4903-bc8a-ebfa70a505c6"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "AMP KIT",
+      "id": "289c8088-d622-4bd6-a381-930260d7bfb0"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "ANTENNA",
+      "id": "3d26d103-5555-4f24-8457-e7e5f0a154b0"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "BOX",
+      "id": "05230ac7-375e-425b-89ae-feb662af2fd4"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "DASH KIT",
+      "id": "ad758b6a-1ef2-46e3-add0-ac6e67d7e5b2"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "ELECTRICAL",
+      "id": "ea0c6568-7412-4584-a97e-bfbae6da2f15"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "ENCLOSURE",
+      "id": "7ec033b5-50d1-444b-bf99-0e63d713a8df"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "BATTERY",
+      "id": "7d5ab560-0121-45b0-a47d-b44963b04929"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "LIGHTS",
+      "id": "29008e87-38f5-4adb-830e-51320fb74cda"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "LOC",
+      "id": "bc3227df-5616-4217-881e-f4394a210187"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "ADAPTER",
+      "id": "217b1f28-33e9-45a6-b257-66482cb8cd1c"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "AMP & SUB",
+      "id": "d7747eda-aaf2-4b36-b180-eb41c5ea5e63"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "RCA",
+      "id": "3724d9b0-ba4e-47f3-9941-9454519e2c07"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "SCREEN",
+      "id": "9201e246-a70b-4c42-9420-fb1ab6f6c7bb"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  },
+  {
+    "category": {
+      "name": "INTERLOCK",
+      "id": "fff518b6-9639-4c27-8ce5-2f40443c94db"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "SUB",
+      "id": "41014302-28ef-45bf-a5bc-1caa627621c4"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "WIRE",
+      "id": "d7bd9869-3427-4d38-88ab-ccc63a63661e"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "X-OVER",
+      "id": "eea9cee0-7032-4d3d-a6bd-892021058336"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "HARDWARE",
+      "id": "3aaee9af-6e77-47a5-8bd1-c5cabbb3fead"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "BATTERY",
+      "id": "4d9e6532-7f4a-406b-bd9d-51201047caaf"
+    },
+    "parent": {
+      "name": "ELECTRICAL",
+      "id": "ea0c6568-7412-4584-a97e-bfbae6da2f15"
+    }
+  },
+  {
+    "category": {
+      "name": "ADAPTER",
+      "id": "8c0510ab-c81c-43da-a09a-0b8387738f81"
+    },
+    "parent": {
+      "name": "ANTENNA",
+      "id": "3d26d103-5555-4f24-8457-e7e5f0a154b0"
+    }
+  },
+  {
+    "category": {
+      "name": "CABLE",
+      "id": "ba5f79da-0244-4a96-b13f-812f8f4a228d"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "KNOB",
+      "id": "71fd118b-7fb4-4a91-8f52-7d2883281e63"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "USB",
+      "id": "c13001b7-aa54-4a2a-b750-7987f6a76724"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "FUSE HOLDER",
+      "id": "b139f562-81dd-478c-a0ab-d14ce4b8c874"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "DIST BLOCK",
+      "id": "c2cf5822-427a-4a61-8aef-9ec02e9148b8"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "HEAD UNIT",
+      "id": "ce62e33d-958d-467e-ac36-5bd3c18a7bf6"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "FLOOR MAT",
+      "id": "de7aa9c8-d15c-436d-8973-176f15767d4d"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "FUSE",
+      "id": "dc8bd922-ec4d-40ca-9c1f-3e75547bb08b"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "RESISTOR",
+      "id": "f20cfba1-9934-4f33-89c2-ce9883dadc1c"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "DYNAMAT",
+      "id": "0b12258c-0b18-4c29-8292-f979baa20298"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "T-HARNESS",
+      "id": "c3db54f7-be2d-4cb6-8c23-a7af1f1227f5"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "ALARM",
+      "id": "433f87ef-436d-48c5-b16d-54218f73c1c4"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "RS",
+      "id": "91aef010-dcce-4cb4-92be-c6986563a39e"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "COMBO",
+      "id": "f790a406-d40e-472f-b2ef-f98a632fa0ec"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "REMOTE",
+      "id": "1350c532-0f77-4f4f-a451-183d4be82160"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "DOOR",
+      "id": "8f006b17-20b2-4a80-b0f4-62fccfca44e6"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "GPS",
+      "id": "cfe36873-d149-4030-a8a8-7302de8d4892"
+    },
+    "parent": {
+      "name": "AL/RS",
+      "id": "695112af-35fa-4c04-a0da-13311a9a7e80"
+    }
+  },
+  {
+    "category": {
+      "name": "MONO",
+      "id": "3041637f-d47a-4d18-ad13-240122a4961a"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "4CH",
+      "id": "654b8fc8-5039-4ff5-aa0a-3ac115ecab62"
+    },
+    "parent": {
+      "name": "RCA",
+      "id": "3724d9b0-ba4e-47f3-9941-9454519e2c07"
+    }
+  },
+  {
+    "category": {
+      "name": "5CH",
+      "id": "3300fb30-f544-4da8-bf18-271a63c68ca1"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "6CH",
+      "id": "e7ed41ce-5028-4a78-bdb0-6241b470024e"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "2CH",
+      "id": "711b079d-5f6f-4ba9-9687-82e2208a1c83"
+    },
+    "parent": {
+      "name": "RCA",
+      "id": "3724d9b0-ba4e-47f3-9941-9454519e2c07"
+    }
+  },
+  {
+    "category": {
+      "name": "8CH",
+      "id": "de219202-1cc1-4bf3-a7eb-f379b2bf01ba"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "7CH",
+      "id": "4bf5efdf-9fe4-4fac-9e3c-4de3d855427b"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "OFC",
+      "id": "3a2b08c2-a685-43da-a1b8-f67704c63079"
+    },
+    "parent": {
+      "name": "WIRE",
+      "id": "d7bd9869-3427-4d38-88ab-ccc63a63661e"
+    }
+  },
+  {
+    "category": {
+      "name": "CCA",
+      "id": "b8593746-0a30-4936-8060-f0bf47a52dda"
+    },
+    "parent": {
+      "name": "WIRE",
+      "id": "d7bd9869-3427-4d38-88ab-ccc63a63661e"
+    }
+  },
+  {
+    "category": {
+      "name": "EXTENSION",
+      "id": "8e27c458-9b71-4310-803d-b3d2258f77ba"
+    },
+    "parent": {
+      "name": "ANTENNA",
+      "id": "3d26d103-5555-4f24-8457-e7e5f0a154b0"
+    }
+  },
+  {
+    "category": {
+      "name": "BACKUP CAM",
+      "id": "6154a4f4-37a9-4d7b-b2a4-71671fdbb396"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  },
+  {
+    "category": {
+      "name": "ADV",
+      "id": "f99e005b-f13a-41b8-ab63-78f0b329ad4d"
+    },
+    "parent": {
+      "name": "LOC",
+      "id": "bc3227df-5616-4217-881e-f4394a210187"
+    }
+  },
+  {
+    "category": {
+      "name": "STANDARD",
+      "id": "ce9f6337-d7ee-4d14-8102-83d0b4fe7dc2"
+    },
+    "parent": {
+      "name": "LOC",
+      "id": "bc3227df-5616-4217-881e-f4394a210187"
+    }
+  },
+  {
+    "category": {
+      "name": "CASE",
+      "id": "99a23386-3d02-4805-b446-9a80d9dfc032"
+    },
+    "parent": {
+      "name": "ELECTRICAL",
+      "id": "ea0c6568-7412-4584-a97e-bfbae6da2f15"
+    }
+  },
+  {
+    "category": {
+      "name": "CAPACITOR",
+      "id": "6111a745-44df-4a51-b7b0-d3d5e40b244b"
+    },
+    "parent": {
+      "name": "ELECTRICAL",
+      "id": "ea0c6568-7412-4584-a97e-bfbae6da2f15"
+    }
+  },
+  {
+    "category": {
+      "name": "LOADED",
+      "id": "f1361083-906a-49c7-8d42-79b36e6d76e8"
+    },
+    "parent": {
+      "name": "ENCLOSURE",
+      "id": "7ec033b5-50d1-444b-bf99-0e63d713a8df"
+    }
+  },
+  {
+    "category": {
+      "name": "POWERED",
+      "id": "ae55503a-15b2-4d90-ad17-a8ae78f6c3b2"
+    },
+    "parent": {
+      "name": "ENCLOSURE",
+      "id": "7ec033b5-50d1-444b-bf99-0e63d713a8df"
+    }
+  },
+  {
+    "category": {
+      "name": "SWC",
+      "id": "993569eb-46ca-4525-9e04-4e9909aa52f0"
+    },
+    "parent": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    }
+  },
+  {
+    "category": {
+      "name": "RSE",
+      "id": "20e40f85-b574-43d7-8595-f659985cca51"
+    },
+    "parent": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    }
+  },
+  {
+    "category": {
+      "name": "SAFETY",
+      "id": "85b4e8ea-c8b8-4f44-8400-73f0bce899e3"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "LED",
+      "id": "853d3e66-e4a8-4617-8552-84807d826dc3"
+    },
+    "parent": {
+      "name": "LIGHTS",
+      "id": "29008e87-38f5-4adb-830e-51320fb74cda"
+    }
+  },
+  {
+    "category": {
+      "name": "HID",
+      "id": "3af163f1-e0a4-4380-9206-c67cb1627da4"
+    },
+    "parent": {
+      "name": "LIGHTS",
+      "id": "29008e87-38f5-4adb-830e-51320fb74cda"
+    }
+  },
+  {
+    "category": {
+      "name": "GLOW",
+      "id": "7ad063d6-22b0-4c23-808a-84d468eff160"
+    },
+    "parent": {
+      "name": "LIGHTS",
+      "id": "29008e87-38f5-4adb-830e-51320fb74cda"
+    }
+  },
+  {
+    "category": {
+      "name": "GENERAL",
+      "id": "3fdc8af2-4aa6-4edb-b8e7-3d5e4257be93"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "Y",
+      "id": "3298a29b-b7f6-4ff5-912c-79b67301c351"
+    },
+    "parent": {
+      "name": "RCA",
+      "id": "3724d9b0-ba4e-47f3-9941-9454519e2c07"
+    }
+  },
+  {
+    "category": {
+      "name": "DASH CAM",
+      "id": "8ae5f86e-e2d3-4ea3-8d5a-f126419afb67"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  },
+  {
+    "category": {
+      "name": "SENSOR",
+      "id": "47873235-0f7d-4a7b-8782-7fb10dd75c0c"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  },
+  {
+    "category": {
+      "name": "RADAR",
+      "id": "47674b4b-cf03-4510-ac4e-0a5a2c8f3ebb"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  },
+  {
+    "category": {
+      "name": "CMP",
+      "id": "abc1c39e-4b59-405c-a5bd-59e8fa499069"
+    },
+    "parent": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    }
+  },
+  {
+    "category": {
+      "name": "TWT",
+      "id": "81c1fbd3-58e0-4600-9f73-97a1320b17b3"
+    },
+    "parent": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    }
+  },
+  {
+    "category": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    },
+    "parent": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    }
+  },
+  {
+    "category": {
+      "name": "GRILLE",
+      "id": "1413d7a1-2dd8-47fd-a5ad-516f5d4b1622"
+    },
+    "parent": {
+      "name": "SUB",
+      "id": "41014302-28ef-45bf-a5bc-1caa627621c4"
+    }
+  },
+  {
+    "category": {
+      "name": "REG",
+      "id": "50129426-8e54-453d-8cf9-730c44b1ccf3"
+    },
+    "parent": {
+      "name": "X-OVER",
+      "id": "eea9cee0-7032-4d3d-a6bd-892021058336"
+    }
+  },
+  {
+    "category": {
+      "name": "THIN",
+      "id": "dcc5d84e-3ccf-4832-b324-7f67d5dd4c51"
+    },
+    "parent": {
+      "name": "SUB",
+      "id": "41014302-28ef-45bf-a5bc-1caa627621c4"
+    }
+  },
+  {
+    "category": {
+      "name": "RECONE",
+      "id": "01493840-1ba1-446a-b4ea-95a25234a2d7"
+    },
+    "parent": {
+      "name": "SUB",
+      "id": "41014302-28ef-45bf-a5bc-1caa627621c4"
+    }
+  },
+  {
+    "category": {
+      "name": "BASS",
+      "id": "68a3bb70-cfb7-4f3c-9e0f-43411194491b"
+    },
+    "parent": {
+      "name": "X-OVER",
+      "id": "eea9cee0-7032-4d3d-a6bd-892021058336"
+    }
+  },
+  {
+    "category": {
+      "name": "DSP",
+      "id": "a5713b46-0374-4639-adba-7460c49d3d07"
+    },
+    "parent": {
+      "name": "X-OVER",
+      "id": "eea9cee0-7032-4d3d-a6bd-892021058336"
+    }
+  },
+  {
+    "category": {
+      "name": "ALARM / REMOTE START",
+      "id": "e7c75383-15f7-487c-a061-3f6f6a52dddb"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "4CH",
+      "id": "7ca92574-a68d-4a06-a310-c2f1968ad4f0"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "2CH",
+      "id": "846cfb5d-edd0-46f1-b406-2cca06b942d5"
+    },
+    "parent": {
+      "name": "AMP",
+      "id": "ecfd6250-3b0c-4ee6-8a6e-60c8089fc523"
+    }
+  },
+  {
+    "category": {
+      "name": "OFC",
+      "id": "5913dfec-64dd-4907-9e4b-ccc4acef3ce7"
+    },
+    "parent": {
+      "name": "AMP KIT",
+      "id": "289c8088-d622-4bd6-a381-930260d7bfb0"
+    }
+  },
+  {
+    "category": {
+      "name": "CCA",
+      "id": "76dd1057-e452-42f7-8ad4-84a59d9bdcea"
+    },
+    "parent": {
+      "name": "AMP KIT",
+      "id": "289c8088-d622-4bd6-a381-930260d7bfb0"
+    }
+  },
+  {
+    "category": {
+      "name": "SPKR",
+      "id": "3e08edba-8332-47c6-9acb-4bb55de9332f"
+    },
+    "parent": {
+      "name": "BOX",
+      "id": "05230ac7-375e-425b-89ae-feb662af2fd4"
+    }
+  },
+  {
+    "category": {
+      "name": "ADV",
+      "id": "4b887039-b2f2-409a-966d-823836ea9aac"
+    },
+    "parent": {
+      "name": "DASH KIT",
+      "id": "ad758b6a-1ef2-46e3-add0-ac6e67d7e5b2"
+    }
+  },
+  {
+    "category": {
+      "name": "STANDARD",
+      "id": "0649a33b-44dd-4338-98d0-b6a09189b630"
+    },
+    "parent": {
+      "name": "DASH KIT",
+      "id": "ad758b6a-1ef2-46e3-add0-ac6e67d7e5b2"
+    }
+  },
+  {
+    "category": {
+      "name": "CAM",
+      "id": "ee721460-4b8a-49c5-befa-b1a447595d42"
+    },
+    "parent": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    }
+  },
+  {
+    "category": {
+      "name": "ADV",
+      "id": "43d93ba2-b4e6-4f13-bd1b-8b5b78b33111"
+    },
+    "parent": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    }
+  },
+  {
+    "category": {
+      "name": "STANDARD",
+      "id": "7161c7b7-2dae-40c1-9876-17d2cb8d50a5"
+    },
+    "parent": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    }
+  },
+  {
+    "category": {
+      "name": "ENTERTAINMENT",
+      "id": "a5c71f5a-f488-4861-8478-e72920f3caa5"
+    },
+    "parent": {
+      "name": "LABOR",
+      "id": "9743d081-05d2-4cc6-b1e5-07ca4ac0a7d6"
+    }
+  },
+  {
+    "category": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    },
+    "parent": {
+      "name": "SUB",
+      "id": "41014302-28ef-45bf-a5bc-1caa627621c4"
+    }
+  },
+  {
+    "category": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    },
+    "parent": {
+      "name": "BOX",
+      "id": "05230ac7-375e-425b-89ae-feb662af2fd4"
+    }
+  },
+  {
+    "category": {
+      "name": "UNIVERSAL",
+      "id": "21065d2f-c605-4195-b8bc-f24d9c34d10a"
+    },
+    "parent": {
+      "name": "BOX",
+      "id": "05230ac7-375e-425b-89ae-feb662af2fd4"
+    }
+  },
+  {
+    "category": {
+      "name": "POLY",
+      "id": "265f12a5-1157-418f-b60a-ccfb5541600a"
+    },
+    "parent": {
+      "name": "UNIVERSAL",
+      "id": "21065d2f-c605-4195-b8bc-f24d9c34d10a"
+    }
+  },
+  {
+    "category": {
+      "name": "CARPET",
+      "id": "003c7666-0de6-4f71-8631-45aa9eea6ad8"
+    },
+    "parent": {
+      "name": "UNIVERSAL",
+      "id": "21065d2f-c605-4195-b8bc-f24d9c34d10a"
+    }
+  },
+  {
+    "category": {
+      "name": "HARNESS",
+      "id": "00c8a746-6df9-4843-bfe7-551e9536c8e3"
+    },
+    "parent": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    }
+  },
+  {
+    "category": {
+      "name": "6.5\"",
+      "id": "1c101077-124c-4a08-88b1-9d8da668f7f4"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "6\" x 9\"",
+      "id": "853871ff-d7e0-422c-adfd-8171a7acc835"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "2.75\"",
+      "id": "a57715c7-bb59-4a14-b6d1-b8fb13d65f98"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "HI-LEVEL",
+      "id": "31ab59d1-332b-43d3-a9cc-7a2eb83595e6"
+    },
+    "parent": {
+      "name": "RCA",
+      "id": "3724d9b0-ba4e-47f3-9941-9454519e2c07"
+    }
+  },
+  {
+    "category": {
+      "name": "ENTERTAINMENT",
+      "id": "8f2b8859-a71d-4523-bf6e-5b301ff675dd"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "HEADREST",
+      "id": "417a613e-69bc-41e2-acf1-936b6897ed86"
+    },
+    "parent": {
+      "name": "ENTERTAINMENT",
+      "id": "8f2b8859-a71d-4523-bf6e-5b301ff675dd"
+    }
+  },
+  {
+    "category": {
+      "name": "FLIPDOWN",
+      "id": "f3aa5ba7-402d-4d55-b54e-9130fc2147f2"
+    },
+    "parent": {
+      "name": "ENTERTAINMENT",
+      "id": "8f2b8859-a71d-4523-bf6e-5b301ff675dd"
+    }
+  },
+  {
+    "category": {
+      "name": "HEADPHONE",
+      "id": "3a9e1c21-586b-4ab9-898f-f55f195c01b4"
+    },
+    "parent": {
+      "name": "ENTERTAINMENT",
+      "id": "8f2b8859-a71d-4523-bf6e-5b301ff675dd"
+    }
+  },
+  {
+    "category": {
+      "name": "ACCESSORY",
+      "id": "13526807-023f-42e3-b756-51e7db1c8bd1"
+    },
+    "parent": {
+      "name": "ENTERTAINMENT",
+      "id": "8f2b8859-a71d-4523-bf6e-5b301ff675dd"
+    }
+  },
+  {
+    "category": {
+      "name": "13\"",
+      "id": "bfe894da-f415-4d33-9064-7ec6b4bf0674"
+    },
+    "parent": {
+      "name": "THIN",
+      "id": "dcc5d84e-3ccf-4832-b324-7f67d5dd4c51"
+    }
+  },
+  {
+    "category": {
+      "name": "6.5\"",
+      "id": "eae84909-78d8-423e-a54b-b89f6e13c3da"
+    },
+    "parent": {
+      "name": "THIN",
+      "id": "dcc5d84e-3ccf-4832-b324-7f67d5dd4c51"
+    }
+  },
+  {
+    "category": {
+      "name": "ACCESSORY",
+      "id": "3b986737-fdf0-47b3-a56a-aed77344b835"
+    },
+    "parent": {
+      "name": "HEAD UNIT",
+      "id": "e217d591-4082-49e9-9a6b-18b34aafc403"
+    }
+  },
+  {
+    "category": {
+      "name": "MIC",
+      "id": "c09a60d2-a0d7-4959-87d3-143293070970"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "3b986737-fdf0-47b3-a56a-aed77344b835"
+    }
+  },
+  {
+    "category": {
+      "name": "REMOTE",
+      "id": "f48c0db3-429f-40af-8c4c-22be4a0d5ae7"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "3b986737-fdf0-47b3-a56a-aed77344b835"
+    }
+  },
+  {
+    "category": {
+      "name": "SIRIUS / XM",
+      "id": "33a8806c-178d-4c94-82ef-51393c556a85"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "OTHER",
+      "id": "052cb541-4c3f-4815-a258-7f722d5985cf"
+    },
+    "parent": {
+      "name": "RCA",
+      "id": "3724d9b0-ba4e-47f3-9941-9454519e2c07"
+    }
+  },
+  {
+    "category": {
+      "name": "10\"",
+      "id": "a61a96df-b56b-46f7-8cae-b7bef418818f"
+    },
+    "parent": {
+      "name": "THIN",
+      "id": "dcc5d84e-3ccf-4832-b324-7f67d5dd4c51"
+    }
+  },
+  {
+    "category": {
+      "name": "12\"",
+      "id": "917296ae-4984-447a-8e50-79805303103a"
+    },
+    "parent": {
+      "name": "THIN",
+      "id": "dcc5d84e-3ccf-4832-b324-7f67d5dd4c51"
+    }
+  },
+  {
+    "category": {
+      "name": "8\"",
+      "id": "9e6a4c6a-985d-4480-b9ea-7d201a85c8ac"
+    },
+    "parent": {
+      "name": "THIN",
+      "id": "dcc5d84e-3ccf-4832-b324-7f67d5dd4c51"
+    }
+  },
+  {
+    "category": {
+      "name": "8\"",
+      "id": "b913ac62-4c9b-494a-8f94-66a39fb4ef38"
+    },
+    "parent": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    }
+  },
+  {
+    "category": {
+      "name": "10\"",
+      "id": "596e6b10-6dfc-4e49-bc95-300be8048a94"
+    },
+    "parent": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    }
+  },
+  {
+    "category": {
+      "name": "12\"",
+      "id": "1440c963-0a2a-4060-ac0b-5e2a977902ad"
+    },
+    "parent": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    }
+  },
+  {
+    "category": {
+      "name": "15\"",
+      "id": "d21997ba-2aba-4213-acd5-d2ba5670bc8a"
+    },
+    "parent": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    }
+  },
+  {
+    "category": {
+      "name": "HEAD UNIT",
+      "id": "e217d591-4082-49e9-9a6b-18b34aafc403"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "DECK",
+      "id": "47f57bf8-c0c0-425d-acd6-2751e82f3970"
+    },
+    "parent": {
+      "name": "HEAD UNIT",
+      "id": "e217d591-4082-49e9-9a6b-18b34aafc403"
+    }
+  },
+  {
+    "category": {
+      "name": "SCREEN",
+      "id": "6c4e7206-3fd2-47e6-ae84-02130e307d61"
+    },
+    "parent": {
+      "name": "HEAD UNIT",
+      "id": "e217d591-4082-49e9-9a6b-18b34aafc403"
+    }
+  },
+  {
+    "category": {
+      "name": "MEDIA",
+      "id": "03f1a9cf-39ff-4714-806c-f28963ed9416"
+    },
+    "parent": {
+      "name": "DECK",
+      "id": "47f57bf8-c0c0-425d-acd6-2751e82f3970"
+    }
+  },
+  {
+    "category": {
+      "name": "CD",
+      "id": "f41cdd73-e769-4e68-bdd5-d94c628ce761"
+    },
+    "parent": {
+      "name": "DECK",
+      "id": "47f57bf8-c0c0-425d-acd6-2751e82f3970"
+    }
+  },
+  {
+    "category": {
+      "name": "1-DIN",
+      "id": "144ebbf8-9c2b-4ea3-a01a-ec62473ef9a4"
+    },
+    "parent": {
+      "name": "MEDIA",
+      "id": "03f1a9cf-39ff-4714-806c-f28963ed9416"
+    }
+  },
+  {
+    "category": {
+      "name": "2-DIN",
+      "id": "25652325-4e01-4156-9dca-3493b7f104b3"
+    },
+    "parent": {
+      "name": "MEDIA",
+      "id": "03f1a9cf-39ff-4714-806c-f28963ed9416"
+    }
+  },
+  {
+    "category": {
+      "name": "1-DIN",
+      "id": "7d419db1-18c4-4361-ad5d-1993c3d9881d"
+    },
+    "parent": {
+      "name": "CD",
+      "id": "f41cdd73-e769-4e68-bdd5-d94c628ce761"
+    }
+  },
+  {
+    "category": {
+      "name": "2-DIN",
+      "id": "37f07a14-334f-40ad-a6bd-eb6fd73cfb2e"
+    },
+    "parent": {
+      "name": "CD",
+      "id": "f41cdd73-e769-4e68-bdd5-d94c628ce761"
+    }
+  },
+  {
+    "category": {
+      "name": "1-DIN (HALO/FLIP-OUT)",
+      "id": "8120dc72-482c-4efc-aa89-31d10f3a91a8"
+    },
+    "parent": {
+      "name": "SCREEN",
+      "id": "6c4e7206-3fd2-47e6-ae84-02130e307d61"
+    }
+  },
+  {
+    "category": {
+      "name": "CUSTOM/TESLA",
+      "id": "e075c29e-79d9-4ea1-9cd8-b6fae37e58d7"
+    },
+    "parent": {
+      "name": "SCREEN",
+      "id": "6c4e7206-3fd2-47e6-ae84-02130e307d61"
+    }
+  },
+  {
+    "category": {
+      "name": "2-DIN",
+      "id": "9ffd2fe8-c222-4ac5-9b84-b80e37fdcbc0"
+    },
+    "parent": {
+      "name": "SCREEN",
+      "id": "6c4e7206-3fd2-47e6-ae84-02130e307d61"
+    }
+  },
+  {
+    "category": {
+      "name": "BRACKET",
+      "id": "426cd203-4c62-4d66-82eb-1936f6ce43b1"
+    },
+    "parent": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    }
+  },
+  {
+    "category": {
+      "name": "4\"",
+      "id": "92c77007-17fc-489d-a470-d7107d6c2547"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "6.5\"",
+      "id": "a9407a75-22ec-4879-b5b9-8a11137d3d84"
+    },
+    "parent": {
+      "name": "CMP",
+      "id": "abc1c39e-4b59-405c-a5bd-59e8fa499069"
+    }
+  },
+  {
+    "category": {
+      "name": "6\" x 9\"",
+      "id": "9ed180df-4133-4e8b-8786-fa9292110a7f"
+    },
+    "parent": {
+      "name": "CMP",
+      "id": "abc1c39e-4b59-405c-a5bd-59e8fa499069"
+    }
+  },
+  {
+    "category": {
+      "name": "6\" x 8\"",
+      "id": "fd1477eb-e9cd-464b-a7c7-ca6bf47ea92f"
+    },
+    "parent": {
+      "name": "CMP",
+      "id": "abc1c39e-4b59-405c-a5bd-59e8fa499069"
+    }
+  },
+  {
+    "category": {
+      "name": "BLUETOOTH",
+      "id": "4eac9bf8-f4db-4308-8de1-8330acad26ee"
+    },
+    "parent": {
+      "name": "ACCESSORY",
+      "id": "060fadc6-791d-46cf-9122-a5e081a59b3a"
+    }
+  },
+  {
+    "category": {
+      "name": "REPLACEMENT",
+      "id": "f03567e1-62f4-46bc-9d8d-051f46e43273"
+    },
+    "parent": {
+      "name": "ANTENNA",
+      "id": "3d26d103-5555-4f24-8457-e7e5f0a154b0"
+    }
+  },
+  {
+    "category": {
+      "name": "BLIND SPOT CAM",
+      "id": "025a3ee7-2f28-4c52-8b17-31d22fbffbc5"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  },
+  {
+    "category": {
+      "name": "AUDIO KIT",
+      "id": "270a94de-c2ef-4e8b-8a88-356d903fe7de"
+    },
+    "parent": null
+  },
+  {
+    "category": {
+      "name": "SOUNDBAR",
+      "id": "ed9fad96-5a22-47df-a861-b5c22d1c23c2"
+    },
+    "parent": {
+      "name": "SPEAKER",
+      "id": "f9faedee-be23-4789-853b-899509494c30"
+    }
+  },
+  {
+    "category": {
+      "name": "16\"+",
+      "id": "013cc1fc-9e9a-408c-afca-5f0d57e4dd30"
+    },
+    "parent": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    }
+  },
+  {
+    "category": {
+      "name": "4\" x 10\"",
+      "id": "83e4e4b1-1e00-4e41-bcc4-ba69308bcf79"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "8\"",
+      "id": "366d64f2-c52e-404f-a7f8-9249f84cc4a9"
+    },
+    "parent": {
+      "name": "COAX",
+      "id": "d2b1f1fd-e827-4d84-a693-0545fd90b59f"
+    }
+  },
+  {
+    "category": {
+      "name": "FORD",
+      "id": "22a2c107-cb8f-4bda-8467-2a10afa2e34a"
+    },
+    "parent": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    }
+  },
+  {
+    "category": {
+      "name": "5.25\"",
+      "id": "808cbbee-4272-4576-b006-5933450a4dd4"
+    },
+    "parent": {
+      "name": "CMP",
+      "id": "abc1c39e-4b59-405c-a5bd-59e8fa499069"
+    }
+  },
+  {
+    "category": {
+      "name": "GM",
+      "id": "aa4b7f6d-4072-4f2a-922f-fa1bf3b5dcab"
+    },
+    "parent": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    }
+  },
+  {
+    "category": {
+      "name": "HONDA",
+      "id": "56f3c8a7-d734-4d68-8e65-a0201c50b5df"
+    },
+    "parent": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    }
+  },
+  {
+    "category": {
+      "name": "CUSTOM (NON-TRUCK)",
+      "id": "b11d38c8-fbde-494d-8da5-29b63a2a7e8d"
+    },
+    "parent": {
+      "name": "BOX",
+      "id": "05230ac7-375e-425b-89ae-feb662af2fd4"
+    }
+  },
+  {
+    "category": {
+      "name": "SUV",
+      "id": "4fa9f707-4e35-4b76-b32d-6772c25c7044"
+    },
+    "parent": {
+      "name": "CUSTOM (NON-TRUCK)",
+      "id": "b11d38c8-fbde-494d-8da5-29b63a2a7e8d"
+    }
+  },
+  {
+    "category": {
+      "name": "JEEP",
+      "id": "5768f155-f71a-4a04-be92-312012d2c70e"
+    },
+    "parent": {
+      "name": "CUSTOM (NON-TRUCK)",
+      "id": "b11d38c8-fbde-494d-8da5-29b63a2a7e8d"
+    }
+  },
+  {
+    "category": {
+      "name": "NISSAN",
+      "id": "39895c9e-bd09-447d-8e03-d7ec06c49e2d"
+    },
+    "parent": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    }
+  },
+  {
+    "category": {
+      "name": "RAM",
+      "id": "32e36c0b-6681-4a42-9a74-e936e29eb6c1"
+    },
+    "parent": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    }
+  },
+  {
+    "category": {
+      "name": "TOYOTA",
+      "id": "e478795e-e7ed-4d2b-a8c0-65d8dd5b3367"
+    },
+    "parent": {
+      "name": "TRUCK",
+      "id": "f2a16890-760e-4c4f-9463-f49257ac0fe5"
+    }
+  },
+  {
+    "category": {
+      "name": "MUSTANG",
+      "id": "b0a1ecff-80c1-4a14-b9d6-ed3fc9d7a9f9"
+    },
+    "parent": {
+      "name": "CUSTOM (NON-TRUCK)",
+      "id": "b11d38c8-fbde-494d-8da5-29b63a2a7e8d"
+    }
+  },
+  {
+    "category": {
+      "name": "NISSAN/INFINITI",
+      "id": "e0535f3d-0162-4ff7-9d7f-7ef9e7cdf926"
+    },
+    "parent": {
+      "name": "CUSTOM (NON-TRUCK)",
+      "id": "b11d38c8-fbde-494d-8da5-29b63a2a7e8d"
+    }
+  },
+  {
+    "category": {
+      "name": "CAMARO",
+      "id": "8596d03c-6fc8-4570-b192-dbfa92ce3768"
+    },
+    "parent": {
+      "name": "CUSTOM (NON-TRUCK)",
+      "id": "b11d38c8-fbde-494d-8da5-29b63a2a7e8d"
+    }
+  },
+  {
+    "category": {
+      "name": "BYPASS",
+      "id": "6445a5ac-eace-49c2-8460-8225c9c1d105"
+    },
+    "parent": {
+      "name": "HARNESS",
+      "id": "4b1ee91b-5d15-4297-9b3e-c9166b066641"
+    }
+  },
+  {
+    "category": {
+      "name": "ACCESSORY",
+      "id": "e5d454a2-ebd2-4ba7-a660-13ba1182a31c"
+    },
+    "parent": {
+      "name": "BOX",
+      "id": "05230ac7-375e-425b-89ae-feb662af2fd4"
+    }
+  },
+  {
+    "category": {
+      "name": "13\"",
+      "id": "4d1b6d80-aa0d-4308-a1bf-a2b9b219d473"
+    },
+    "parent": {
+      "name": "REG",
+      "id": "dc25503a-c592-4e17-ade7-af2ef508df35"
+    }
+  },
+  {
+    "category": {
+      "name": "Accessory",
+      "id": "c150afad-2b7d-4792-ad6f-5fe0e623e585"
+    },
+    "parent": {
+      "name": "SAFETY",
+      "id": "7d439d2b-cb53-4a38-b10a-035e2f4d2752"
+    }
+  }
+]
